@@ -122,3 +122,7 @@ Use it when you want to guide the image's practical role: selling, explaining, c
 | `/stencil` | Material And Surface Transformation | Convert the subject into stencil shapes. |
 | `/halftone` | Material And Surface Transformation | Use comic-book dot shading. |
 | `/duotone` | Material And Surface Transformation | Limit the design to two colors. |
+| `/isometricicon` | Web Research: AI Image Style Keywords | Convert the subject into a clean isometric icon-style render. |
+| `/clayui` | Web Research: AI Image Style Keywords | Render the subject as a soft clay-like UI or app illustration. |
+| `/glassmorphism` | Web Research: UI And Surface Styles | Use translucent frosted-glass panels and layered depth. |
+| `/neonnoir` | Web Research: Cinematic Style Keywords | Restyle the subject with neon lighting and noir contrast. |

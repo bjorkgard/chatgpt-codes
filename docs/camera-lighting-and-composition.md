@@ -68,3 +68,19 @@ Use it when you want to guide the image's practical role: selling, explaining, c
 | `/timeline` | Motion, Time, And Change | Show development across multiple stages. |
 | `/transformation` | Motion, Time, And Change | Show one form becoming another. |
 | `/lifecycle` | Motion, Time, And Change | Show creation, use, aging, and end of life. |
+| `/eyelevel` | Web Research: Camera Angle Vocabulary | Use a neutral eye-level camera perspective. |
+| `/threequarterangle` | Web Research: Camera Angle Vocabulary | Show the subject from a three-quarter view that reveals depth. |
+| `/extremecloseup` | Web Research: Camera Framing Vocabulary | Fill the frame with one important detail or texture. |
+| `/mediumshot` | Web Research: Camera Framing Vocabulary | Frame the subject with enough surrounding context to explain use. |
+| `/fullbodyshot` | Web Research: Camera Framing Vocabulary | Show the full person, object, or product from top to bottom. |
+| `/overtheshoulder` | Web Research: Camera Angle Vocabulary | View the scene from behind a nearby person or foreground subject. |
+| `/pointofviewshot` | Web Research: Camera Angle Vocabulary | Show the image from the user's or subject's own perspective. |
+| `/ruleofthirds` | Web Research: Composition Vocabulary | Place the main subject along rule-of-thirds lines for balanced tension. |
+| `/leadinglines` | Web Research: Composition Vocabulary | Use strong lines that guide the viewer toward the subject. |
+| `/negativespace` | Web Research: Composition Vocabulary | Leave clean empty space around the subject for layout or copy. |
+| `/rembrandtlight` | Web Research: Lighting Vocabulary | Use dramatic portrait-style light with a small cheek triangle. |
+| `/butterflylight` | Web Research: Lighting Vocabulary | Use centered beauty lighting with a soft shadow below the nose. |
+| `/sidelight` | Web Research: Lighting Vocabulary | Light the subject strongly from one side to reveal form and texture. |
+| `/diffusedlight` | Web Research: Lighting Vocabulary | Use broad soft light with gentle shadows. |
+| `/softshadows` | Web Research: Lighting Vocabulary | Keep shadows smooth, subtle, and commercially polished. |
+| `/colorgrading` | Web Research: Post-Processing Vocabulary | Apply a coherent cinematic or editorial color grade. |

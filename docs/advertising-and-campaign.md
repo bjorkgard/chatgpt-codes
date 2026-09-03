@@ -154,3 +154,11 @@ Use it when you want to guide the image's practical role: selling, explaining, c
 | `/must have` | New Product And Campaign Shortcuts | Frame the product as the irresistible item everyone wants. |
 | `/urge builder` | New Product And Campaign Shortcuts | Build visual anticipation and desire around the product. |
 | `/crave appeal` | New Product And Campaign Shortcuts | Maximize mouthwatering texture, warmth, and snack appeal. |
+| `/whitebackgroundhero` | Web Research: Product Photography Prompt Patterns | Place the product on a clean pure-white marketplace-ready background. |
+| `/brandcolorhero` | Web Research: Product Photography Prompt Patterns | Stage the product against a bold backdrop based on brand colors. |
+| `/marketplacehero` | Web Research: Product Photography Prompt Patterns | Create a compliant hero image for ecommerce marketplace listings. |
+| `/pdphero` | Web Research: Product Photography Prompt Patterns | Build a polished product-detail-page hero image. |
+| `/socialsquare` | Web Research: Social Ad Formats | Compose the subject as a square social-feed ad creative. |
+| `/seasonalset` | Web Research: Product Photography Prompt Patterns | Place the product in a seasonal campaign setting. |
+| `/offerbanner` | Web Research: Social Ad Formats | Create a clean promotional banner with product-first hierarchy. |
+| `/testimonialad` | Web Research: Social Ad Formats | Frame the product as an ad built around a short customer quote or proof point. |

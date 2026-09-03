@@ -39,3 +39,11 @@ Use it when you want to guide the image's practical role: selling, explaining, c
 | `/cablemanagement` | Everyday Context And Product Use | Organize cables neatly around the item. |
 | `/drawerorganization` | Everyday Context And Product Use | Arrange small items inside a drawer. |
 | `/accessorylayout` | Everyday Context And Product Use | Arrange the main item with its accessories. |
+| `/flatlay` | Web Research: Product Photography Shot Types | Arrange the product and props in a clean top-down flat lay. |
+| `/ghostmannequin` | Web Research: Fashion Ecommerce Views | Show apparel shape as if worn by an invisible mannequin. |
+| `/onmodel` | Web Research: Fashion Ecommerce Views | Present apparel realistically on a model while keeping focus on fit. |
+| `/hangershot` | Web Research: Fashion Ecommerce Views | Show apparel hanging cleanly on a hanger or rack. |
+| `/rackdisplay` | Web Research: Fashion Ecommerce Views | Present multiple garments together on a tidy retail rack. |
+| `/texturecloseup` | Web Research: Product Photography Shot Types | Show a close product detail that emphasizes material and finish. |
+| `/bundlelayout` | Web Research: Product Photography Shot Types | Arrange multiple related products as a clear bundle offer. |
+| `/variantgrid` | Web Research: Ecommerce Product Views | Show product variants in a consistent grid for easy comparison. |

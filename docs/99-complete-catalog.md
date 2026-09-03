@@ -1,6 +1,6 @@
 # Complete Code Catalog
 
-This file collects all 642 code words extracted from the PDF catalog.
+This file collects all 678 code words extracted from the PDF catalog and later research additions.
 
 | No. | Code word | Group | Source/category | Short function |
 |---:|---|---|---|---|
@@ -646,3 +646,39 @@ This file collects all 642 code words extracted from the PDF catalog.
 | 640 | `/soundwave` | Science, sensory views, and inspection | Scientific And Sensory Views | Show an audio waveform around the subject. |
 | 641 | `/smellmap` | Science, sensory views, and inspection | Scientific And Sensory Views | Visualize the spread or concentration of a smell. |
 | 642 | `/electricalfield` | Science, sensory views, and inspection | Scientific And Sensory Views | Show electrical energy around the subject. |
+| 643 | `/whitebackgroundhero` | Advertising and campaign | Web Research: Product Photography Prompt Patterns | Place the product on a clean pure-white marketplace-ready background. |
+| 644 | `/brandcolorhero` | Advertising and campaign | Web Research: Product Photography Prompt Patterns | Stage the product against a bold backdrop based on brand colors. |
+| 645 | `/marketplacehero` | Advertising and campaign | Web Research: Product Photography Prompt Patterns | Create a compliant hero image for ecommerce marketplace listings. |
+| 646 | `/pdphero` | Advertising and campaign | Web Research: Product Photography Prompt Patterns | Build a polished product-detail-page hero image. |
+| 647 | `/socialsquare` | Advertising and campaign | Web Research: Social Ad Formats | Compose the subject as a square social-feed ad creative. |
+| 648 | `/seasonalset` | Advertising and campaign | Web Research: Product Photography Prompt Patterns | Place the product in a seasonal campaign setting. |
+| 649 | `/offerbanner` | Advertising and campaign | Web Research: Social Ad Formats | Create a clean promotional banner with product-first hierarchy. |
+| 650 | `/testimonialad` | Advertising and campaign | Web Research: Social Ad Formats | Frame the product as an ad built around a short customer quote or proof point. |
+| 651 | `/flatlay` | Retail and product presentation | Web Research: Product Photography Shot Types | Arrange the product and props in a clean top-down flat lay. |
+| 652 | `/ghostmannequin` | Retail and product presentation | Web Research: Fashion Ecommerce Views | Show apparel shape as if worn by an invisible mannequin. |
+| 653 | `/onmodel` | Retail and product presentation | Web Research: Fashion Ecommerce Views | Present apparel realistically on a model while keeping focus on fit. |
+| 654 | `/hangershot` | Retail and product presentation | Web Research: Fashion Ecommerce Views | Show apparel hanging cleanly on a hanger or rack. |
+| 655 | `/rackdisplay` | Retail and product presentation | Web Research: Fashion Ecommerce Views | Present multiple garments together on a tidy retail rack. |
+| 656 | `/texturecloseup` | Retail and product presentation | Web Research: Product Photography Shot Types | Show a close product detail that emphasizes material and finish. |
+| 657 | `/bundlelayout` | Retail and product presentation | Web Research: Product Photography Shot Types | Arrange multiple related products as a clear bundle offer. |
+| 658 | `/variantgrid` | Retail and product presentation | Web Research: Ecommerce Product Views | Show product variants in a consistent grid for easy comparison. |
+| 659 | `/eyelevel` | Camera, lighting, and composition | Web Research: Camera Angle Vocabulary | Use a neutral eye-level camera perspective. |
+| 660 | `/threequarterangle` | Camera, lighting, and composition | Web Research: Camera Angle Vocabulary | Show the subject from a three-quarter view that reveals depth. |
+| 661 | `/extremecloseup` | Camera, lighting, and composition | Web Research: Camera Framing Vocabulary | Fill the frame with one important detail or texture. |
+| 662 | `/mediumshot` | Camera, lighting, and composition | Web Research: Camera Framing Vocabulary | Frame the subject with enough surrounding context to explain use. |
+| 663 | `/fullbodyshot` | Camera, lighting, and composition | Web Research: Camera Framing Vocabulary | Show the full person, object, or product from top to bottom. |
+| 664 | `/overtheshoulder` | Camera, lighting, and composition | Web Research: Camera Angle Vocabulary | View the scene from behind a nearby person or foreground subject. |
+| 665 | `/pointofviewshot` | Camera, lighting, and composition | Web Research: Camera Angle Vocabulary | Show the image from the user's or subject's own perspective. |
+| 666 | `/ruleofthirds` | Camera, lighting, and composition | Web Research: Composition Vocabulary | Place the main subject along rule-of-thirds lines for balanced tension. |
+| 667 | `/leadinglines` | Camera, lighting, and composition | Web Research: Composition Vocabulary | Use strong lines that guide the viewer toward the subject. |
+| 668 | `/negativespace` | Camera, lighting, and composition | Web Research: Composition Vocabulary | Leave clean empty space around the subject for layout or copy. |
+| 669 | `/rembrandtlight` | Camera, lighting, and composition | Web Research: Lighting Vocabulary | Use dramatic portrait-style light with a small cheek triangle. |
+| 670 | `/butterflylight` | Camera, lighting, and composition | Web Research: Lighting Vocabulary | Use centered beauty lighting with a soft shadow below the nose. |
+| 671 | `/sidelight` | Camera, lighting, and composition | Web Research: Lighting Vocabulary | Light the subject strongly from one side to reveal form and texture. |
+| 672 | `/diffusedlight` | Camera, lighting, and composition | Web Research: Lighting Vocabulary | Use broad soft light with gentle shadows. |
+| 673 | `/softshadows` | Camera, lighting, and composition | Web Research: Lighting Vocabulary | Keep shadows smooth, subtle, and commercially polished. |
+| 674 | `/colorgrading` | Camera, lighting, and composition | Web Research: Post-Processing Vocabulary | Apply a coherent cinematic or editorial color grade. |
+| 675 | `/isometricicon` | Styles, materials, and art | Web Research: AI Image Style Keywords | Convert the subject into a clean isometric icon-style render. |
+| 676 | `/clayui` | Styles, materials, and art | Web Research: AI Image Style Keywords | Render the subject as a soft clay-like UI or app illustration. |
+| 677 | `/glassmorphism` | Styles, materials, and art | Web Research: UI And Surface Styles | Use translucent frosted-glass panels and layered depth. |
+| 678 | `/neonnoir` | Styles, materials, and art | Web Research: Cinematic Style Keywords | Restyle the subject with neon lighting and noir contrast. |
