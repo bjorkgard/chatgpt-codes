@@ -1,41 +1,42 @@
 # ChatGPT Visual Cheat Codes
 
-Kodorden ska ses som prompt-genvägar, inte officiella ChatGPT-kommandon. Bäst resultat får du när du kombinerar ett kodord med motiv, syfte, målformat och eventuella begränsningar.
+Treat the code words as prompt shortcuts, not official ChatGPT commands. You get the best results when you combine a code word with a subject, purpose, target format, and any constraints.
 
-## Innehåll
+## Contents
 
-- [Kom igång](docs/00-kom-igang.md)
-- [Promptmönster](docs/00-promptmonster.md)
-- [Reklam och kampanj](docs/reklam-och-kampanj.md)
-- [Retail och produktpresentation](docs/retail-och-produktpresentation.md)
-- [Kamera, ljus och komposition](docs/kamera-ljus-och-komposition.md)
-- [Tekniska reveals och diagram](docs/tekniska-reveals-och-diagram.md)
-- [Process, instruktion och säkerhet](docs/process-instruktion-och-sakerhet.md)
-- [Lärande och förklaring](docs/larande-och-forklaring.md)
-- [Stilar, material och konst](docs/stilar-material-och-konst.md)
-- [Världar, miljöer och scener](docs/varldar-miljoer-och-scener.md)
-- [Jämförelse, varianter och beslut](docs/jamforelse-variant-och-beslut.md)
-- [Kopplingar och kompatibilitet](docs/kopplingar-och-kompatibilitet.md)
-- [Människa, djur och kropp](docs/manniska-djur-och-kropp.md)
-- [Vetenskap, sensorik och inspektion](docs/vetenskap-sensorik-och-inspektion.md)
-- [Komplett kodkatalog](docs/99-komplett-katalog.md)
+- [Getting started](docs/00-getting-started.md)
+- [Prompt patterns](docs/00-prompt-patterns.md)
+- [Advertising and campaign](docs/advertising-and-campaign.md)
+- [Retail and product presentation](docs/retail-and-product-presentation.md)
+- [Camera, lighting, and composition](docs/camera-lighting-and-composition.md)
+- [Technical reveals and diagrams](docs/technical-reveals-and-diagrams.md)
+- [Process, instruction, and safety](docs/process-instruction-and-safety.md)
+- [Learning and explanation](docs/learning-and-explanation.md)
+- [Styles, materials, and art](docs/styles-materials-and-art.md)
+- [Worlds, environments, and scenes](docs/worlds-environments-and-scenes.md)
+- [Comparison, variants, and decisions](docs/comparison-variants-and-decisions.md)
+- [Connectivity and compatibility](docs/connectivity-and-compatibility.md)
+- [Human, animal, and body](docs/human-animal-and-body.md)
+- [Science, sensory views, and inspection](docs/science-sensory-and-inspection.md)
+- [Complete code catalog](docs/99-complete-catalog.md)
 
-## Källdokument
+## Source documents
 
-- [ChatGPT Visual Cheat Codes Guide (PDF)](files/chatgpt-visual-cheat-codes-guide.pdf)
+- [ChatGPT Visual Cheat Codes Guide - Swedish PDF](files/chatgpt-visual-cheat-codes-guide.pdf)
+- [ChatGPT Visual Cheat Codes Guide - English PDF](files/chatgpt-visual-cheat-codes-guide-english.pdf)
 
-## Snabb användning
+## Quick use
 
-1. Välj motiv: produkt, skiss, skärmbild, person, miljö eller idé.
-2. Välj ett primärt kodord, till exempel `/cutaway`, `/packshot` eller `/studygram`.
-3. Lägg till syfte: annons, instruktion, jämförelse, pedagogisk förklaring eller stiltest.
-4. Lägg till begränsningar: behåll ansikte, proportioner, färger, varumärke, aspektförhållande eller läsbar text.
-5. Iterera med tydlig feedback: vad ska vara mer exakt, enklare, renare, mer tekniskt eller mer emotionellt?
+1. Choose a subject: product, sketch, screenshot, person, environment, or idea.
+2. Choose one primary code word, such as `/cutaway`, `/packshot`, or `/studygram`.
+3. Add the purpose: ad, instruction, comparison, educational explanation, or style test.
+4. Add constraints: preserve face, proportions, colors, brand, aspect ratio, or readable text.
+5. Iterate with clear feedback: what should be more precise, simpler, cleaner, more technical, or more emotional?
 
-## Rekommenderad promptformel
+## Recommended Prompt Formula
 
-`[kodord] + [motiv] + [mål] + [format] + [viktiga begränsningar]`
+`[code word] + [subject] + [goal] + [format] + [important constraints]`
 
-Exempel:
+Example:
 
-`/explodedview Skapa en pedagogisk visualisering av en elcykelmotor. Visa huvudkomponenter, korta etiketter, tydliga pilar och en ren teknisk stil. Behåll produktens proportioner.`
+`/explodedview Create an educational visualization of an e-bike motor. Show the main components, short labels, clear arrows, and a clean technical style. Preserve the product proportions.`
