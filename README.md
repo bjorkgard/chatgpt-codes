@@ -1,7 +1,5 @@
 # ChatGPT Visual Cheat Codes
 
-Det här repo-paketet sammanfattar två källfiler om visuella ChatGPT-kodord: en kort DOCX-guide med visuella cheat codes och en större PDF-katalog med 642 kodord.
-
 Kodorden ska ses som prompt-genvägar, inte officiella ChatGPT-kommandon. Bäst resultat får du när du kombinerar ett kodord med motiv, syfte, målformat och eventuella begränsningar.
 
 ## Innehåll
