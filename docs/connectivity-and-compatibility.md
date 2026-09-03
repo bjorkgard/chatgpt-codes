@@ -1,20 +1,20 @@
-# Kopplingar och kompatibilitet
+# Connectivity and Compatibility
 
-För portar, kablar, adaptrar, tillbehör, montering, förvaring och praktiska passformsfrågor.
+For ports, cables, adapters, accessories, mounting, storage, and practical fit questions.
 
-## När gruppen passar
+## When This Group Fits
 
-Använd den när du vill styra bildens praktiska roll: sälja, förklara, jämföra, instruera, stilisera eller förvandla motivet.
+Use it when you want to guide the image's practical role: selling, explaining, comparing, instructing, styling, or transforming the subject.
 
-## Exempel
+## Examples
 
-- `/portlabels`: Märk alla portar på en laptopdocka med korta, läsbara etiketter.
-- `/cablerouting`: Visa den renaste kabeldragningen bakom ett skrivbord.
-- `/adaptermatch`: Visa vilken adapter som passar mellan kamera, kabel och dator.
+- `/portlabels`: Label all ports on a laptop dock with short, readable labels.
+- `/cablerouting`: Show the cleanest cable routing behind a desk.
+- `/adaptermatch`: Show which adapter fits between camera, cable, and computer.
 
-## Kodord i gruppen
+## Code Words in This Group
 
-| Kodord | Källa/kategori | Kort funktion |
+| Code word | Source/category | Short function |
 |---|---|---|
 | `/portlabels` | Connectivity And Compatibility | Label every input and output port. |
 | `/cablerouting` | Connectivity And Compatibility | Show the cleanest cable paths. |

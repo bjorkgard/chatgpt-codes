@@ -1,20 +1,20 @@
-# Stilar, material och konst
+# Styles, Materials, and Art
 
-För illustration, konststilar, texturer, hantverkskänsla, materialbyten och yteffekter.
+For illustration, art styles, textures, craft feel, material swaps, and surface effects.
 
-## När gruppen passar
+## When This Group Fits
 
-Använd den när du vill styra bildens praktiska roll: sälja, förklara, jämföra, instruera, stilisera eller förvandla motivet.
+Use it when you want to guide the image's practical role: selling, explaining, comparing, instructing, styling, or transforming the subject.
 
-## Exempel
+## Examples
 
-- `/watercolor`: Gör ett cafe på en regnig kväll i mjuk akvarellstil.
-- `/clayrender`: Förvandla en app-maskot till en mjuk 3D-lerafigur.
-- `/linocut`: Skapa en grafisk poster i linocut-känsla för en lokal konsert.
+- `/watercolor`: Create a cafe on a rainy evening in a soft watercolor style.
+- `/clayrender`: Transform an app mascot into a soft 3D clay figure.
+- `/linocut`: Create a graphic poster with a linocut feel for a local concert.
 
-## Kodord i gruppen
+## Code Words in This Group
 
-| Kodord | Källa/kategori | Kort funktion |
+| Code word | Source/category | Short function |
 |---|---|---|
 | `/annotated sketch` | Imagined Worlds And Material Styles | Turn the subject into a clean sketch with concise labels. |
 | `/technical drawing` | Imagined Worlds And Material Styles | Render the subject as a precise technical drawing. |

@@ -1,20 +1,20 @@
-# Retail och produktpresentation
+# Retail and Product Presentation
 
-För butik, hylla, display, förpackning, unboxing, produktfamiljer och praktisk produktlayout.
+For stores, shelves, displays, packaging, unboxing, product families, and practical product layout.
 
-## När gruppen passar
+## When This Group Fits
 
-Använd den när du vill styra bildens praktiska roll: sälja, förklara, jämföra, instruera, stilisera eller förvandla motivet.
+Use it when you want to guide the image's practical role: selling, explaining, comparing, instructing, styling, or transforming the subject.
 
-## Exempel
+## Examples
 
-- `/shelfcomparison`: Jämför vår produkt mot tre konkurrenter i en tydlig butikshylla.
-- `/unboxing`: Visa allt som ingår i lådan för en premium-hörlur.
-- `/inhandscale`: Visa hur stor produkten är genom att placera den i en hand.
+- `/shelfcomparison`: Compare our product against three competitors on a clear retail shelf.
+- `/unboxing`: Show everything included in the box for a premium headphone.
+- `/inhandscale`: Show how large the product is by placing it in a hand.
 
-## Kodord i gruppen
+## Code Words in This Group
 
-| Kodord | Källa/kategori | Kort funktion |
+| Code word | Source/category | Short function |
 |---|---|---|
 | `/openboxlayout` | Retail And Product Presentation | Arrange the opened package and contents neatly. |
 | `/lifestylehero` | Retail And Product Presentation | Show the product as the focus of a realistic lifestyle scene. |

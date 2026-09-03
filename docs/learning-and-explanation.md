@@ -1,20 +1,20 @@
-# Lärande och förklaring
+# Learning and Explanation
 
-För infografik, whiteboard, mindmaps, konceptkartor, sammanfattningar och pedagogiska visuella anteckningar.
+For infographics, whiteboards, mind maps, concept maps, summaries, and educational visual notes.
 
-## När gruppen passar
+## When This Group Fits
 
-Använd den när du vill styra bildens praktiska roll: sälja, förklara, jämföra, instruera, stilisera eller förvandla motivet.
+Use it when you want to guide the image's practical role: selling, explaining, comparing, instructing, styling, or transforming the subject.
 
-## Exempel
+## Examples
 
-- `/studygram`: Förklara maskininlärning som estetiska studieanteckningar med rubriker och små diagram.
-- `/mindmap`: Gör en visuell karta över hur ett SaaS-team planerar en lansering.
-- `/callouts`: Lägg rena etiketter på en produktbild och peka ut de viktigaste funktionerna.
+- `/studygram`: Explain machine learning as aesthetic study notes with headings and small diagrams.
+- `/mindmap`: Create a visual map of how a SaaS team plans a launch.
+- `/callouts`: Add clean labels to a product image and point out the most important features.
 
-## Kodord i gruppen
+## Code Words in This Group
 
-| Kodord | Källa/kategori | Kort funktion |
+| Code word | Source/category | Short function |
 |---|---|---|
 | `/dosanddonts` | Learning And Explanation | Compare the correct approach with common mistakes. |
 | `/troubleshootchart` | Learning And Explanation | Map symptoms to likely causes and simple fixes. |

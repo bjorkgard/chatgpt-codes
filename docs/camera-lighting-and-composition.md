@@ -1,20 +1,20 @@
-# Kamera, ljus och komposition
+# Camera, Lighting, and Composition
 
-För att styra bildens kameravinkel, optik, ljussättning, fokus, rörelse och filmiska känsla.
+For guiding the image's camera angle, optics, lighting, focus, motion, and cinematic feel.
 
-## När gruppen passar
+## When This Group Fits
 
-Använd den när du vill styra bildens praktiska roll: sälja, förklara, jämföra, instruera, stilisera eller förvandla motivet.
+Use it when you want to guide the image's practical role: selling, explaining, comparing, instructing, styling, or transforming the subject.
 
-## Exempel
+## Examples
 
-- `/goldenhour + /wideangle`: Gör en varm resebild av en stadsgata i låg sol med tydlig platskänsla.
-- `/rimlight`: Separera personen från bakgrunden med en tydlig ljuskant.
-- `/topdown`: Visa skrivbordets verktyg rakt ovanifrån för en ren guidebild.
+- `/goldenhour + /wideangle`: Create a warm travel image of a city street in low sun with a clear sense of place.
+- `/rimlight`: Separate the person from the background with a clear rim of light.
+- `/topdown`: Show the desk tools straight from above for a clean guide image.
 
-## Kodord i gruppen
+## Code Words in This Group
 
-| Kodord | Källa/kategori | Kort funktion |
+| Code word | Source/category | Short function |
 |---|---|---|
 | `/splitdiopter` | Camera And Lighting Directions | Keep a near subject and distant subject sharply focused. |
 | `/dutchangle` | Camera And Lighting Directions | Tilt the frame for a tense cinematic perspective. |

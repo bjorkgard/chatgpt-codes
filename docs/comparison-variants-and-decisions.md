@@ -1,20 +1,20 @@
-# Jämförelse, varianter och beslut
+# Comparison, Variants, and Decisions
 
-För före/efter, versioner, färgval, feature-matriser, pros/cons och visuella rekommendationer.
+For before/after views, versions, color choices, feature matrices, pros/cons, and visual recommendations.
 
-## När gruppen passar
+## When This Group Fits
 
-Använd den när du vill styra bildens praktiska roll: sälja, förklara, jämföra, instruera, stilisera eller förvandla motivet.
+Use it when you want to guide the image's practical role: selling, explaining, comparing, instructing, styling, or transforming the subject.
 
-## Exempel
+## Examples
 
-- `/beforeafter`: Visa hur ett rum förändras före och efter renovering.
-- `/featurematrix`: Jämför tre prenumerationspaket visuellt utan att det blir texttungt.
-- `/compatibilitycheck`: Visa vilka adaptrar som fungerar med en viss laptopmodell.
+- `/beforeafter`: Show how a room changes before and after renovation.
+- `/featurematrix`: Compare three subscription packages visually without making it text-heavy.
+- `/compatibilitycheck`: Show which adapters work with a specific laptop model.
 
-## Kodord i gruppen
+## Code Words in This Group
 
-| Kodord | Källa/kategori | Kort funktion |
+| Code word | Source/category | Short function |
 |---|---|---|
 | `/scalecomparison` | Scale, Comparison, And Placement | Compare size with a hand, person, or object. |
 | `/sizecomparison` | Scale, Comparison, And Placement | Place several items beside each other by size. |

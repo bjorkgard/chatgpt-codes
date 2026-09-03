@@ -1,20 +1,20 @@
-# Människa, djur och kropp
+# Human, Animal, and Body
 
-För anatomi, hållning, gester, beteendesekvenser, miljörelationer och kroppsnära instruktioner.
+For anatomy, posture, gestures, behavior sequences, environmental relationships, and body-adjacent instructions.
 
-## När gruppen passar
+## When This Group Fits
 
-Använd den när du vill styra bildens praktiska roll: sälja, förklara, jämföra, instruera, stilisera eller förvandla motivet.
+Use it when you want to guide the image's practical role: selling, explaining, comparing, instructing, styling, or transforming the subject.
 
-## Exempel
+## Examples
 
-- `/posturemap`: Förklara bra sittställning vid ett hemmakontor.
-- `/gestureguide`: Visa korrekt handposition för en musiker som håller ett instrument.
-- `/organmap`: Gör en förenklad pedagogisk bild av matsmältningssystemet.
+- `/posturemap`: Explain good sitting posture at a home office.
+- `/gestureguide`: Show correct hand position for a musician holding an instrument.
+- `/organmap`: Create a simplified educational image of the digestive system.
 
-## Kodord i gruppen
+## Code Words in This Group
 
-| Kodord | Källa/kategori | Kort funktion |
+| Code word | Source/category | Short function |
 |---|---|---|
 | `/skeletonview` | Human And Animal Anatomy | Show the supporting bones or framework. |
 | `/cellularview` | Human And Animal Anatomy | Zoom into cells or microscopic structure. |

@@ -1,20 +1,20 @@
-# Reklam och kampanj
+# Advertising and Campaign
 
-För annonser, kampanjvisualer, lanseringar och sociala format där bilden ska sälja, stoppa scrollen eller kännas premium.
+For ads, campaign visuals, launches, and social formats where the image should sell, stop the scroll, or feel premium.
 
-## När gruppen passar
+## When This Group Fits
 
-Använd den när du vill styra bildens praktiska roll: sälja, förklara, jämföra, instruera, stilisera eller förvandla motivet.
+Use it when you want to guide the image's practical role: selling, explaining, comparing, instructing, styling, or transforming the subject.
 
-## Exempel
+## Examples
 
-- `/packshot`: Skapa en ren studiobild av en ny kaffeförpackning för en e-handelsannons.
-- `/storyad + /scroll stopper`: Gör en vertikal kampanjbild för en träningsapp som känns tydlig på mobil.
-- `/luxuryedition`: Ge en vanlig vattenflaska ett premiumutseende för en begränsad lansering.
+- `/packshot`: Create a clean studio image of new coffee packaging for an e-commerce ad.
+- `/storyad + /scroll stopper`: Create a vertical campaign image for a fitness app that feels clear on mobile.
+- `/luxuryedition`: Give an ordinary water bottle a premium look for a limited launch.
 
-## Kodord i gruppen
+## Code Words in This Group
 
-| Kodord | Källa/kategori | Kort funktion |
+| Code word | Source/category | Short function |
 |---|---|---|
 | `/packshot` | Advertising And Campaign | Create a clean studio product photo for an advertisement. |
 | `/luxuryedition` | Advertising And Campaign | Turn the subject into a refined luxury edition. |

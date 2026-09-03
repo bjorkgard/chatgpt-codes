@@ -1,20 +1,20 @@
-# Vetenskap, sensorik och inspektion
+# Science, Sensory Views, and Inspection
 
-För värme, ljud, doft, fält, mikroskopi, radar, nattseende, skador och autenticitetskontroller.
+For heat, sound, smell, fields, microscopy, radar, night vision, damage, and authenticity checks.
 
-## När gruppen passar
+## When This Group Fits
 
-Använd den när du vill styra bildens praktiska roll: sälja, förklara, jämföra, instruera, stilisera eller förvandla motivet.
+Use it when you want to guide the image's practical role: selling, explaining, comparing, instructing, styling, or transforming the subject.
 
-## Exempel
+## Examples
 
-- `/thermalview`: Visa var en laptop blir varm under belastning.
-- `/soundwave`: Lägg en ljudvåg runt en högtalare för att visa riktning och intensitet.
-- `/damagecheck`: Markera repor och sprickor i en begagnad produktbild.
+- `/thermalview`: Show where a laptop gets warm under load.
+- `/soundwave`: Add a sound wave around a speaker to show direction and intensity.
+- `/damagecheck`: Mark scratches and cracks in a used product image.
 
-## Kodord i gruppen
+## Code Words in This Group
 
-| Kodord | Källa/kategori | Kort funktion |
+| Code word | Source/category | Short function |
 |---|---|---|
 | `/thermalview` | Scientific And Sensory Views | Show heat distribution across the subject. |
 | `/thermalvision` | Scientific And Sensory Views | Use a heat-camera perspective. |

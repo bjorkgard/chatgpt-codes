@@ -1,20 +1,20 @@
-# Världar, miljöer och scener
+# Worlds, Environments, and Scenes
 
-För att placera motiv i nya miljöer, bygga alternativa världar, scenografier, framtider och surrealistiska miljöer.
+For placing subjects in new environments, building alternative worlds, stage designs, futures, and surreal settings.
 
-## När gruppen passar
+## When This Group Fits
 
-Använd den när du vill styra bildens praktiska roll: sälja, förklara, jämföra, instruera, stilisera eller förvandla motivet.
+Use it when you want to guide the image's practical role: selling, explaining, comparing, instructing, styling, or transforming the subject.
 
-## Exempel
+## Examples
 
-- `/futurecity`: Placera en självkörande buss i en trovärdig framtidsstad.
-- `/museumdisplay`: Visa ett historiskt objekt som en kuraterad museiutställning.
-- `/weatherchange`: Visa samma husfasad i sol, regn, snö och dimma.
+- `/futurecity`: Place a self-driving bus in a believable future city.
+- `/museumdisplay`: Show a historical object as a curated museum exhibition.
+- `/weatherchange`: Show the same house facade in sun, rain, snow, and fog.
 
-## Kodord i gruppen
+## Code Words in This Group
 
-| Kodord | Källa/kategori | Kort funktion |
+| Code word | Source/category | Short function |
 |---|---|---|
 | `/miniatureworld` | Scenes And World Transformation | Place a tiny believable world around the subject. |
 | `/giantobject` | Scenes And World Transformation | Turn the subject into a monumental oversized object. |

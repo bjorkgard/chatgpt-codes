@@ -1,20 +1,20 @@
-# Tekniska reveals och diagram
+# Technical Reveals and Diagrams
 
-För cutaways, exploded views, blueprints, scheman, delar, material, flöden och mekaniska förklaringar.
+For cutaways, exploded views, blueprints, schematics, parts, materials, flows, and mechanical explanations.
 
-## När gruppen passar
+## When This Group Fits
 
-Använd den när du vill styra bildens praktiska roll: sälja, förklara, jämföra, instruera, stilisera eller förvandla motivet.
+Use it when you want to guide the image's practical role: selling, explaining, comparing, instructing, styling, or transforming the subject.
 
-## Exempel
+## Examples
 
-- `/explodedview`: Separera komponenterna i en elcykelmotor och märk huvuddelarna.
-- `/blueprint + /dimensions`: Skapa en teknisk ritning av ett modulärt skrivbord med mått.
-- `/mechanismflow`: Visa hur kraften överförs genom ett lås när nyckeln vrids.
+- `/explodedview`: Separate the components of an e-bike motor and label the main parts.
+- `/blueprint + /dimensions`: Create a technical drawing of a modular desk with measurements.
+- `/mechanismflow`: Show how force transfers through a lock when the key turns.
 
-## Kodord i gruppen
+## Code Words in This Group
 
-| Kodord | Källa/kategori | Kort funktion |
+| Code word | Source/category | Short function |
 |---|---|---|
 | `/parts map` | Latest Technical Explanation Codes | Arrange and label the subject's main parts in one clear map. |
 | `/exploded blueprint` | Latest Technical Explanation Codes | Combine an exploded view with a technical blueprint. |

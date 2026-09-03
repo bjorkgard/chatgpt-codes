@@ -1,20 +1,20 @@
-# Process, instruktion och säkerhet
+# Process, Instruction, and Safety
 
-För steg-för-steg-guider, underhåll, felsökning, säkerhetszoner, kontroller och arbetsflöden.
+For step-by-step guides, maintenance, troubleshooting, safety zones, controls, and workflows.
 
-## När gruppen passar
+## When This Group Fits
 
-Använd den när du vill styra bildens praktiska roll: sälja, förklara, jämföra, instruera, stilisera eller förvandla motivet.
+Use it when you want to guide the image's practical role: selling, explaining, comparing, instructing, styling, or transforming the subject.
 
-## Exempel
+## Examples
 
-- `/assemblysequence`: Visa hur en stol monteras i sex tydliga steg.
-- `/hazardmap`: Märk riskzoner på en maskin innan service.
-- `/quickreference`: Skapa ett kompakt referenskort för hur en kaffemaskin rengörs.
+- `/assemblysequence`: Show how a chair is assembled in six clear steps.
+- `/hazardmap`: Mark risk zones on a machine before servicing.
+- `/quickreference`: Create a compact reference card for how to clean a coffee machine.
 
-## Kodord i gruppen
+## Code Words in This Group
 
-| Kodord | Källa/kategori | Kort funktion |
+| Code word | Source/category | Short function |
 |---|---|---|
 | `/assembly` | Process And Instruction | Show how separate parts become one object. |
 | `/assemblysequence` | Process And Instruction | Show assembly in numbered stages. |
