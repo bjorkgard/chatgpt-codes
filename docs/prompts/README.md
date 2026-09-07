@@ -14,3 +14,4 @@ Extracted long-form image prompts from social posts and screenshots. Each file k
 | [Creator Feed Step-Out](06-creator-feed-stepout.md) | Person stepping out of a creator feed | ![Creator feed step-out example](../../examples/prompts/06-creator-feed-stepout.png) |
 | [POV Linen Phone Illusion](07-pov-linen-phone-illusion.md) | First-person fashion phone illusion | ![POV linen phone illusion example](../../examples/prompts/07-pov-linen-phone-illusion.png) |
 | [Giant Phone Music Player](08-giant-phone-music-player.md) | Oversized phone as music-player street set | ![Giant phone music player example](../../examples/prompts/08-giant-phone-music-player.png) |
+| [Miniature City Diorama Portrait](09-miniature-city-diorama-portrait.md) | Floating city/country diorama planet | ![Miniature city diorama portrait example](../../examples/prompts/09-miniature-city-diorama-portrait.png) |
