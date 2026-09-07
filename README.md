@@ -20,6 +20,7 @@ Treat the code words as prompt shortcuts, not official ChatGPT commands. You get
 - [Science, sensory views, and inspection](docs/science-sensory-and-inspection.md)
 - [Sci-Fi and AI](docs/sci-fi-and-ai.md)
 - [UI and Technology](docs/ui-and-technology.md)
+- [Prompts](docs/prompts/README.md)
 - [Complete code catalog](docs/99-complete-catalog.md)
 - [Changelog](CHANGELOG.md)
 
