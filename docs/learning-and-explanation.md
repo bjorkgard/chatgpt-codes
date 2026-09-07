@@ -34,6 +34,7 @@ Use it when you want to guide the image's practical role: selling, explaining, c
 | `/conceptmap` | Learning And Explanation | Connect the main ideas in a simple concept map. |
 | `/partslegend` | Learning And Explanation | Pair each important part with a clear legend label. |
 | `/functionlabels` | Learning And Explanation | Label each major part with its practical function. |
+| `/diagram` | Visual / Presentation | Create a clear explanatory diagram for the subject. |
 | `/glitch` | Digital And Data Views | Add controlled digital distortion. |
 | `/hud` | Digital And Data Views | Add a futuristic heads-up display. |
 | `/datastream` | Digital And Data Views | Show information flowing through the scene. |
@@ -54,6 +55,9 @@ Use it when you want to guide the image's practical role: selling, explaining, c
 | `/redpen` | Annotation And Explanation | Add correction marks and expert notes. |
 | `/markerwriting` | Annotation And Explanation | Use bold marker-style annotations. |
 | `/whiteboard` | Annotation And Explanation | Turn the image into a whiteboard explanation. |
+| `/notebook` | Hand-Drawn / Educational | Present the content as tidy notes on a notebook page. |
+| `/markerboard` | Hand-Drawn / Educational | Explain the subject as a marker-style board diagram. |
+| `/chalkboard` | Hand-Drawn / Educational | Present the subject as chalkboard-style writing or diagrams. |
 | `/annotatedphoto` | Annotation And Explanation | Add clean labels directly to the photo. |
 | `/labelmaker` | Annotation And Explanation | Use tidy printed labels for each part. |
 | `/captioncard` | Annotation And Explanation | Add short explanatory captions beside the subject. |

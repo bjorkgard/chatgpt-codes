@@ -54,6 +54,7 @@ Use it when you want to guide the image's practical role: selling, explaining, c
 | `/engineering sketch` | Imagined Worlds And Material Styles | Present the subject as a practical engineering sketch. |
 | `/fashion sketch` | Imagined Worlds And Material Styles | Restyle the subject as an elegant fashion sketch. |
 | `/chalk sketch` | Imagined Worlds And Material Styles | Draw the subject with textured chalk strokes. |
+| `/sketch` | Hand-Drawn / Educational | Render the subject as a simple pencil-style sketch. |
 | `/paper grain` | Imagined Worlds And Material Styles | Apply a visible paper-grain finish to the subject. |
 | `/rough paper` | Imagined Worlds And Material Styles | Render the subject on a rough handmade paper surface. |
 | `/newsprint` | Imagined Worlds And Material Styles | Print the subject with a vintage newsprint look. |
@@ -103,6 +104,7 @@ Use it when you want to guide the image's practical role: selling, explaining, c
 | `/poster` | Design And Publishing | Create a bold graphic poster. |
 | `/editorial` | Design And Publishing | Use a polished magazine editorial layout. |
 | `/albumcover` | Design And Publishing | Create music artwork around the subject. |
+| `/scrapbook` | Hand-Drawn / Educational | Arrange the subject in a scrapbook-style design. |
 | `/comicpanel` | Design And Publishing | Use a comic-book frame and composition. |
 | `/manga` | Design And Publishing | Use a manga-inspired illustration style. |
 | `/pixelart` | Design And Publishing | Convert the subject into pixel graphics. |
@@ -128,13 +130,16 @@ Use it when you want to guide the image's practical role: selling, explaining, c
 | `/neonnoir` | Web Research: Cinematic Style Keywords | Restyle the subject with neon lighting and noir contrast. |
 | `/mangacover` | Art and Drawing Styles | Create artwork in a manga-cover style. |
 | `/comicbook` | Art and Drawing Styles | Use a comic-book illustration look. |
+| `/comic` | Art Styles | Use bold comic-book style storytelling. |
 | `/vaporwave` | Art and Drawing Styles | Apply a retro vaporwave aesthetic. |
 | `/lego` | Art and Drawing Styles | Rebuild the subject with interlocking toy-brick style. |
 | `/ascii` | Art and Drawing Styles | Render the subject using ASCII-art character texture. |
 | `/papercut` | Art and Drawing Styles | Use layered paper-cut shapes and shadows. |
 | `/oilpainting` | Art and Drawing Styles | Render the subject as a traditional oil painting. |
 | `/charcoal` | Art and Drawing Styles | Draw the subject with rich charcoal texture. |
+| `/pencil` | Art Styles | Draw the subject with pencil texture and shading. |
 | `/pencilsketch` | Art and Drawing Styles | Use a hand-drawn pencil sketch look. |
+| `/ink` | Art Styles | Render the subject with ink illustration lines. |
 | `/inkdrawing` | Art and Drawing Styles | Render the subject with clean ink drawing lines. |
 | `/ghibli` | Futuristic and Modern | Use a warm hand-painted animation-inspired atmosphere. |
 | `/anime` | Futuristic and Modern | Use an anime illustration style. |
@@ -173,6 +178,7 @@ Use it when you want to guide the image's practical role: selling, explaining, c
 | `/icecarving` | Materials and Textures | Render the subject as carved ice. |
 | `/marble` | Materials and Textures | Give the subject a marble material finish. |
 | `/bronze` | Materials and Textures | Render the subject in bronze. |
+| `/clay` | Art Styles | Sculpt the subject in a soft clay 3D style. |
 | `/ceramic` | Materials and Textures | Render the subject as ceramic. |
 | `/porcelain` | Materials and Textures | Render the subject as porcelain. |
 | `/crystal` | Materials and Textures | Render the subject as faceted crystal. |

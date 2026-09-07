@@ -1,6 +1,6 @@
 # Complete Code Catalog
 
-This file collects all 891 code words extracted from the PDF catalog, later research additions, and image-sourced additions.
+This file collects all 901 code words extracted from the PDF catalog, later research additions, and image-sourced additions.
 
 | No. | Code word | Group | Source/category | Short function |
 |---:|---|---|---|---|
@@ -895,3 +895,13 @@ This file collects all 891 code words extracted from the PDF catalog, later rese
 | 889 | `/cpu` | UI and Technology | UI and Technology | Show the subject with CPU or processor-chip context. |
 | 890 | `/atom` | UI and Technology | UI and Technology | Add atomic-scale science imagery. |
 | 891 | `/brain` | UI and Technology | UI and Technology | Add brain or neural-interface context. |
+| 892 | `/diagram` | Learning and explanation | Visual / Presentation | Create a clear explanatory diagram for the subject. |
+| 893 | `/notebook` | Learning and explanation | Hand-Drawn / Educational | Present the content as tidy notes on a notebook page. |
+| 894 | `/markerboard` | Learning and explanation | Hand-Drawn / Educational | Explain the subject as a marker-style board diagram. |
+| 895 | `/chalkboard` | Learning and explanation | Hand-Drawn / Educational | Present the subject as chalkboard-style writing or diagrams. |
+| 896 | `/sketch` | Styles, materials, and art | Hand-Drawn / Educational | Render the subject as a simple pencil-style sketch. |
+| 897 | `/scrapbook` | Styles, materials, and art | Hand-Drawn / Educational | Arrange the subject in a scrapbook-style design. |
+| 898 | `/comic` | Styles, materials, and art | Art Styles | Use bold comic-book style storytelling. |
+| 899 | `/pencil` | Styles, materials, and art | Art Styles | Draw the subject with pencil texture and shading. |
+| 900 | `/ink` | Styles, materials, and art | Art Styles | Render the subject with ink illustration lines. |
+| 901 | `/clay` | Styles, materials, and art | Art Styles | Sculpt the subject in a soft clay 3D style. |
