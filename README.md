@@ -18,7 +18,9 @@ Treat the code words as prompt shortcuts, not official ChatGPT commands. You get
 - [Connectivity and compatibility](docs/connectivity-and-compatibility.md)
 - [Human, animal, and body](docs/human-animal-and-body.md)
 - [Science, sensory views, and inspection](docs/science-sensory-and-inspection.md)
+- [Instagram 250+ Commands additions](docs/instagram-250-plus-commands.md)
 - [Complete code catalog](docs/99-complete-catalog.md)
+- [Changelog](CHANGELOG.md)
 
 ## Source documents
 
