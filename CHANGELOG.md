@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-09-08
+
+- Generated six example images for the `Everyday ChatGPT Images` prompt collection and linked them from each prompt page.
+- Updated the collection README to include example thumbnails, matching the other prompt documentation layouts.
+- Researched current ChatGPT image prompting shorthand and official image-generation guidance from OpenAI and recent visual-code prompt articles.
+- Added 74 exact-new visual code words across existing category docs for camera/framing, lighting, action, production, product advertising, surreal scenes, educational layouts, and prompting controls.
+- Updated `docs/00-prompt-patterns.md` with everyday image, social text-space, text-legibility, and prompt-cleanup patterns.
+- Added the `Everyday ChatGPT Images` prompt collection with six reusable prompt recipes.
+- Updated `docs/99-complete-catalog.md` and raised the complete catalog count from 901 to 975.
+
 ## 2026-09-07
 
 - Reviewed the supplied `ChatGPT Visual Cheat Codes.pdf` and checked its 32 extracted shortcuts against the existing documentation catalog.

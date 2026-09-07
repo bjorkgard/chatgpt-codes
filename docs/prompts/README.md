@@ -8,6 +8,7 @@ Reusable long-form image prompts grouped by style and purpose. Each collection i
 |---|---|---|
 | [Travel Posters](travel-posters/README.md) | Landmark-led geometric city posters with a refined museum-print look | 14 city posters |
 | [Visual Illusions](visual-illusions/README.md) | Trompe-l'oeil, scale-shift, phone-world, and surreal perspective prompts | 9 image prompts |
+| [Everyday ChatGPT Images](everyday-chatgpt-images/README.md) | Practical profile, social, product, event, presentation, and surreal-post recipes | 6 prompt recipes |
 
 ## Quick Use
 
