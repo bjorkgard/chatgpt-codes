@@ -682,216 +682,216 @@ This file collects all 891 code words extracted from the PDF catalog, later rese
 | 676 | `/clayui` | Styles, materials, and art | Web Research: AI Image Style Keywords | Render the subject as a soft clay-like UI or app illustration. |
 | 677 | `/glassmorphism` | Styles, materials, and art | Web Research: UI And Surface Styles | Use translucent frosted-glass panels and layered depth. |
 | 678 | `/neonnoir` | Styles, materials, and art | Web Research: Cinematic Style Keywords | Restyle the subject with neon lighting and noir contrast. |
-| 679 | `/mangacover` | Styles, materials, and art | Instagram 250+ Commands: Art And Drawing Styles | Create artwork in a manga-cover style. |
-| 680 | `/comicbook` | Styles, materials, and art | Instagram 250+ Commands: Art And Drawing Styles | Use a comic-book illustration look. |
-| 681 | `/vaporwave` | Styles, materials, and art | Instagram 250+ Commands: Art And Drawing Styles | Apply a retro vaporwave aesthetic. |
-| 682 | `/lego` | Styles, materials, and art | Instagram 250+ Commands: Art And Drawing Styles | Rebuild the subject with interlocking toy-brick style. |
-| 683 | `/ascii` | Styles, materials, and art | Instagram 250+ Commands: Art And Drawing Styles | Render the subject using ASCII-art character texture. |
-| 684 | `/papercut` | Styles, materials, and art | Instagram 250+ Commands: Art And Drawing Styles | Use layered paper-cut shapes and shadows. |
-| 685 | `/oilpainting` | Styles, materials, and art | Instagram 250+ Commands: Art And Drawing Styles | Render the subject as a traditional oil painting. |
-| 686 | `/charcoal` | Styles, materials, and art | Instagram 250+ Commands: Art And Drawing Styles | Draw the subject with rich charcoal texture. |
-| 687 | `/pencilsketch` | Styles, materials, and art | Instagram 250+ Commands: Art And Drawing Styles | Use a hand-drawn pencil sketch look. |
-| 688 | `/inkdrawing` | Styles, materials, and art | Instagram 250+ Commands: Art And Drawing Styles | Render the subject with clean ink drawing lines. |
-| 689 | `/ghibli` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Use a warm hand-painted animation-inspired atmosphere. |
-| 690 | `/anime` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Use an anime illustration style. |
-| 691 | `/chibi` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Restyle the subject as a cute chibi character. |
-| 692 | `/disney` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Use a polished family-animation-inspired look. |
-| 693 | `/pixar` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Use a polished 3D animated feature look. |
-| 694 | `/dreamworks` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Use an expressive stylized 3D animation look. |
-| 695 | `/noir` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Create a dark noir mood with strong contrast. |
-| 696 | `/filmgrain` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Add a cinematic film-grain finish. |
-| 697 | `/retro90s` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Use a bold 1990s retro visual style. |
-| 698 | `/y2k` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Use glossy early-2000s design cues. |
-| 699 | `/synthwave` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Create a neon synthwave scene. |
-| 700 | `/outrun` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Use a retro-futuristic outrun aesthetic. |
-| 701 | `/hologram` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Make the subject appear as a glowing hologram. |
-| 702 | `/neon` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Use bright neon light and color. |
-| 703 | `/goldluxury` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Give the subject a gold luxury treatment. |
-| 704 | `/flatdesign` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Use simplified flat graphic design. |
-| 705 | `/lineart` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Render the subject with clean line art. |
-| 706 | `/doodle` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Use loose playful doodle lines. |
-| 707 | `/graffiti` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Apply a street-art graffiti style. |
-| 708 | `/spraypaint` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Use sprayed paint texture and edges. |
-| 709 | `/popart` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Use bold pop-art color and contrast. |
-| 710 | `/cubism` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Break the subject into cubist geometric planes. |
-| 711 | `/surreal` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Add dreamlike surreal visual logic. |
-| 712 | `/abstract` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Convert the subject into abstract forms. |
-| 713 | `/expressionism` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Use emotional expressionist distortion and color. |
-| 714 | `/renaissance` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Restyle the subject with Renaissance painting cues. |
-| 715 | `/baroque` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Use ornate dramatic Baroque styling. |
-| 716 | `/gothic` | Styles, materials, and art | Instagram 250+ Commands: Futuristic And Modern | Use dark Gothic atmosphere and forms. |
-| 717 | `/fantasy` | Worlds, environments, and scenes | Instagram 250+ Commands: Fantasy And History | Place the subject in a fantasy setting. |
-| 718 | `/mythology` | Worlds, environments, and scenes | Instagram 250+ Commands: Fantasy And History | Give the subject mythological symbolism and scale. |
-| 719 | `/dragon` | Worlds, environments, and scenes | Instagram 250+ Commands: Fantasy And History | Add a dragon-themed fantasy treatment. |
-| 720 | `/elf` | Worlds, environments, and scenes | Instagram 250+ Commands: Fantasy And History | Add elegant elven fantasy styling. |
-| 721 | `/wizard` | Worlds, environments, and scenes | Instagram 250+ Commands: Fantasy And History | Add a magical wizard-themed treatment. |
-| 722 | `/samurai` | Worlds, environments, and scenes | Instagram 250+ Commands: Fantasy And History | Use samurai-era armor, stance, or setting. |
-| 723 | `/ninja` | Worlds, environments, and scenes | Instagram 250+ Commands: Fantasy And History | Use stealthy ninja-inspired styling. |
-| 724 | `/viking` | Worlds, environments, and scenes | Instagram 250+ Commands: Fantasy And History | Use Viking-era materials, dress, and atmosphere. |
-| 725 | `/medieval` | Worlds, environments, and scenes | Instagram 250+ Commands: Fantasy And History | Place the subject in a medieval setting. |
-| 726 | `/ancientrome` | Worlds, environments, and scenes | Instagram 250+ Commands: Fantasy And History | Use ancient Roman setting and design cues. |
-| 727 | `/ancientegypt` | Worlds, environments, and scenes | Instagram 250+ Commands: Fantasy And History | Use ancient Egyptian setting and design cues. |
-| 728 | `/space` | Worlds, environments, and scenes | Instagram 250+ Commands: Nature And Space | Place the subject in outer space. |
-| 729 | `/galaxy` | Worlds, environments, and scenes | Instagram 250+ Commands: Nature And Space | Surround the subject with a galaxy-scale backdrop. |
-| 730 | `/astronaut` | Worlds, environments, and scenes | Instagram 250+ Commands: Nature And Space | Add astronaut or space-suit context. |
-| 731 | `/mars` | Worlds, environments, and scenes | Instagram 250+ Commands: Nature And Space | Place the subject on a Mars-like landscape. |
-| 732 | `/moonlight` | Worlds, environments, and scenes | Instagram 250+ Commands: Nature And Space | Light the scene with cool moonlight. |
-| 733 | `/ocean` | Worlds, environments, and scenes | Instagram 250+ Commands: Nature And Space | Place the subject in an ocean environment. |
-| 734 | `/jungle` | Worlds, environments, and scenes | Instagram 250+ Commands: Nature And Space | Place the subject in dense jungle scenery. |
-| 735 | `/desert` | Worlds, environments, and scenes | Instagram 250+ Commands: Nature And Space | Place the subject in a desert landscape. |
-| 736 | `/volcano` | Worlds, environments, and scenes | Instagram 250+ Commands: Nature And Space | Add volcanic terrain, lava, or eruption energy. |
-| 737 | `/snow` | Worlds, environments, and scenes | Instagram 250+ Commands: Nature And Space | Set the scene in snow or wintry conditions. |
-| 738 | `/rain` | Worlds, environments, and scenes | Instagram 250+ Commands: Nature And Space | Add visible rain and wet surfaces. |
-| 739 | `/storm` | Worlds, environments, and scenes | Instagram 250+ Commands: Nature And Space | Create a dramatic storm environment. |
-| 740 | `/sunset` | Worlds, environments, and scenes | Instagram 250+ Commands: Nature And Space | Light the scene with sunset color. |
-| 741 | `/sunrise` | Worlds, environments, and scenes | Instagram 250+ Commands: Nature And Space | Light the scene with sunrise color. |
-| 742 | `/nightcity` | Worlds, environments, and scenes | Instagram 250+ Commands: Nature And Space | Place the subject in a night city scene. |
-| 743 | `/architecture` | Worlds, environments, and scenes | Instagram 250+ Commands: Buildings And Interiors | Emphasize architectural form and space. |
-| 744 | `/interior` | Worlds, environments, and scenes | Instagram 250+ Commands: Buildings And Interiors | Place the subject in a designed interior. |
-| 745 | `/scifiroom` | Worlds, environments, and scenes | Instagram 250+ Commands: Buildings And Interiors | Place the subject in a science-fiction room. |
-| 746 | `/workspace` | Worlds, environments, and scenes | Instagram 250+ Commands: Buildings And Interiors | Place the subject in a practical workspace. |
-| 747 | `/productshot` | Camera, lighting, and composition | Instagram 250+ Commands: Photography | Create a clean product photography shot. |
-| 748 | `/imax` | Camera, lighting, and composition | Instagram 250+ Commands: Photography | Use a large-format cinematic IMAX feel. |
-| 749 | `/hdr` | Camera, lighting, and composition | Instagram 250+ Commands: Photography | Use high dynamic range detail and contrast. |
-| 750 | `/hyperreal` | Camera, lighting, and composition | Instagram 250+ Commands: Photography | Push the subject toward hyperreal detail. |
-| 751 | `/photorealistic` | Camera, lighting, and composition | Instagram 250+ Commands: Photography | Render the subject as realistic photography. |
-| 752 | `/miniature` | Styles, materials, and art | Instagram 250+ Commands: Toys And Miniatures | Make the subject feel like a small miniature. |
-| 753 | `/toybox` | Styles, materials, and art | Instagram 250+ Commands: Toys And Miniatures | Present the subject as part of a toy-box scene. |
-| 754 | `/actionfigure` | Styles, materials, and art | Instagram 250+ Commands: Toys And Miniatures | Restyle the subject as an action figure. |
-| 755 | `/funko` | Styles, materials, and art | Instagram 250+ Commands: Toys And Miniatures | Restyle the subject as a collectible big-head vinyl figure. |
-| 756 | `/doubleexposure` | Styles, materials, and art | Instagram 250+ Commands: Materials And Textures | Blend two images or ideas in a double-exposure effect. |
-| 757 | `/woodcarving` | Styles, materials, and art | Instagram 250+ Commands: Materials And Textures | Render the subject as carved wood. |
-| 758 | `/icecarving` | Styles, materials, and art | Instagram 250+ Commands: Materials And Textures | Render the subject as carved ice. |
-| 759 | `/marble` | Styles, materials, and art | Instagram 250+ Commands: Materials And Textures | Give the subject a marble material finish. |
-| 760 | `/bronze` | Styles, materials, and art | Instagram 250+ Commands: Materials And Textures | Render the subject in bronze. |
-| 761 | `/ceramic` | Styles, materials, and art | Instagram 250+ Commands: Materials And Textures | Render the subject as ceramic. |
-| 762 | `/porcelain` | Styles, materials, and art | Instagram 250+ Commands: Materials And Textures | Render the subject as porcelain. |
-| 763 | `/crystal` | Styles, materials, and art | Instagram 250+ Commands: Materials And Textures | Render the subject as faceted crystal. |
-| 764 | `/diamond` | Styles, materials, and art | Instagram 250+ Commands: Materials And Textures | Give the subject a diamond-like faceted finish. |
-| 765 | `/goldleaf` | Styles, materials, and art | Instagram 250+ Commands: Materials And Textures | Apply delicate gold-leaf detailing. |
-| 766 | `/silverchrome` | Styles, materials, and art | Instagram 250+ Commands: Materials And Textures | Use a bright silver chrome finish. |
-| 767 | `/rusted` | Styles, materials, and art | Instagram 250+ Commands: Materials And Textures | Age the subject with rust. |
-| 768 | `/oxidized` | Styles, materials, and art | Instagram 250+ Commands: Materials And Textures | Add oxidized patina and weathering. |
-| 769 | `/carbonfiber` | Styles, materials, and art | Instagram 250+ Commands: Materials And Textures | Use a woven carbon-fiber material. |
-| 770 | `/liquidmetal` | Styles, materials, and art | Instagram 250+ Commands: Materials And Textures | Make the subject look like flowing liquid metal. |
-| 771 | `/moltengold` | Styles, materials, and art | Instagram 250+ Commands: Materials And Textures | Make the subject look like molten gold. |
-| 772 | `/glossart` | Styles, materials, and art | Instagram 250+ Commands: Materials And Textures | Use glossy art-surface shine. |
-| 773 | `/mirror` | Styles, materials, and art | Instagram 250+ Commands: Materials And Textures | Give the subject a mirror-like reflective finish. |
-| 774 | `/pearlescent` | Styles, materials, and art | Instagram 250+ Commands: Materials And Textures | Apply a pearlescent color-shifting finish. |
-| 775 | `/bioluminescent` | Camera, lighting, and composition | Instagram 250+ Commands: Effects | Add natural glowing bioluminescent light. |
-| 776 | `/fire` | Camera, lighting, and composition | Instagram 250+ Commands: Effects | Add flames or fiery energy. |
-| 777 | `/electric` | Camera, lighting, and composition | Instagram 250+ Commands: Effects | Add electric energy around the subject. |
-| 778 | `/lightning` | Camera, lighting, and composition | Instagram 250+ Commands: Effects | Add dramatic lightning bolts. |
-| 779 | `/smoke` | Camera, lighting, and composition | Instagram 250+ Commands: Effects | Add visible smoke atmosphere. |
-| 780 | `/fog` | Camera, lighting, and composition | Instagram 250+ Commands: Effects | Add fog around the subject. |
-| 781 | `/mist` | Camera, lighting, and composition | Instagram 250+ Commands: Effects | Add soft atmospheric mist. |
-| 782 | `/cloudscape` | Camera, lighting, and composition | Instagram 250+ Commands: Effects | Place the subject in a cloud-filled scene. |
-| 783 | `/aurora` | Camera, lighting, and composition | Instagram 250+ Commands: Effects | Add aurora-like colored sky light. |
-| 784 | `/eclipse` | Camera, lighting, and composition | Instagram 250+ Commands: Effects | Create an eclipse composition or lighting effect. |
-| 785 | `/planet` | Camera, lighting, and composition | Instagram 250+ Commands: Effects | Add a planet-scale celestial element. |
-| 786 | `/blackhole` | Camera, lighting, and composition | Instagram 250+ Commands: Effects | Place the subject near a black-hole effect. |
-| 787 | `/nebula` | Camera, lighting, and composition | Instagram 250+ Commands: Effects | Add a colorful nebula backdrop. |
-| 788 | `/meteor` | Camera, lighting, and composition | Instagram 250+ Commands: Effects | Add a meteor or meteor-impact feeling. |
-| 789 | `/comet` | Camera, lighting, and composition | Instagram 250+ Commands: Effects | Add a comet trail or celestial pass. |
-| 790 | `/spaceship` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Add or transform the subject into a spaceship context. |
-| 791 | `/alienworld` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Place the subject in an alien world. |
-| 792 | `/robot` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Add a robot or robotic form. |
-| 793 | `/mecha` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Use giant mecha robot styling. |
-| 794 | `/android` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Give the subject an android-like design. |
-| 795 | `/cyborg` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Blend the subject with cybernetic parts. |
-| 796 | `/avatar` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Restyle the subject as a digital avatar. |
-| 797 | `/virtualreality` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Place the subject in a virtual-reality context. |
-| 798 | `/metaverse` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Place the subject in a shared digital-world setting. |
-| 799 | `/matrix` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Use a digital matrix-code atmosphere. |
-| 800 | `/blockworld` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Build the scene from block-world geometry. |
-| 801 | `/minecraft` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Use a Minecraft-like blocky voxel look. |
-| 802 | `/roblox` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Use a Roblox-like block character or world style. |
-| 803 | `/fortnite` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Use a colorful stylized battle-game look. |
-| 804 | `/arcade` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Use retro arcade-game styling. |
-| 805 | `/gameboy` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Use a handheld Game Boy-era game look. |
-| 806 | `/ps1` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Use low-poly PlayStation 1-era graphics. |
-| 807 | `/ps2` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Use early PlayStation 2-era 3D graphics. |
-| 808 | `/n64` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Use Nintendo 64-era low-poly graphics. |
-| 809 | `/retroarcade` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Create a retro arcade cabinet or pixel-game mood. |
-| 810 | `/pixelportrait` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Turn the subject into a pixel-art portrait. |
-| 811 | `/sprite` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Render the subject as a game sprite. |
-| 812 | `/bossfight` | Technology, games, and UI | Instagram 250+ Commands: Sci-Fi And AI | Stage the subject as a video-game boss fight. |
-| 813 | `/dungeon` | Worlds, environments, and scenes | Instagram 250+ Commands: Places And Adventure | Place the subject in a dungeon environment. |
-| 814 | `/castle` | Worlds, environments, and scenes | Instagram 250+ Commands: Places And Adventure | Place the subject near or inside a castle. |
-| 815 | `/throneroom` | Worlds, environments, and scenes | Instagram 250+ Commands: Places And Adventure | Stage the subject in a throne room. |
-| 816 | `/pirate` | Worlds, environments, and scenes | Instagram 250+ Commands: Places And Adventure | Use a pirate adventure theme. |
-| 817 | `/treasure` | Worlds, environments, and scenes | Instagram 250+ Commands: Places And Adventure | Add treasure-hunt context or treasure props. |
-| 818 | `/shipwreck` | Worlds, environments, and scenes | Instagram 250+ Commands: Places And Adventure | Place the subject around a shipwreck. |
-| 819 | `/lighthouse` | Worlds, environments, and scenes | Instagram 250+ Commands: Places And Adventure | Place the subject near a lighthouse. |
-| 820 | `/harbor` | Worlds, environments, and scenes | Instagram 250+ Commands: Places And Adventure | Place the subject in a harbor setting. |
-| 821 | `/village` | Worlds, environments, and scenes | Instagram 250+ Commands: Places And Adventure | Place the subject in a village scene. |
-| 822 | `/cottagecore` | Worlds, environments, and scenes | Instagram 250+ Commands: Places And Adventure | Use a cozy pastoral cottagecore style. |
-| 823 | `/fairytale` | Worlds, environments, and scenes | Instagram 250+ Commands: Places And Adventure | Give the subject a fairytale atmosphere. |
-| 824 | `/storybook` | Worlds, environments, and scenes | Instagram 250+ Commands: Places And Adventure | Render the scene like a storybook illustration. |
-| 825 | `/storybook3d` | Worlds, environments, and scenes | Instagram 250+ Commands: Places And Adventure | Render the scene as a 3D storybook world. |
-| 826 | `/puppet` | Worlds, environments, and scenes | Instagram 250+ Commands: Places And Adventure | Restyle the subject as a puppet or puppet-theater scene. |
-| 827 | `/felt` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Render the subject in soft felt. |
-| 828 | `/crochet` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Render the subject as crochet work. |
-| 829 | `/knitted` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Render the subject with knitted yarn texture. |
-| 830 | `/embroidery` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Render the subject as embroidered thread. |
-| 831 | `/quilling` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Build the subject from paper quilling strips. |
-| 832 | `/sandart` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Render the subject as sand art. |
-| 833 | `/chalk` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Use chalk texture and marks. |
-| 834 | `/marker` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Use bold marker drawing texture. |
-| 835 | `/crayon` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Use waxy crayon texture. |
-| 836 | `/pastel` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Use soft pastel drawing texture. |
-| 837 | `/acrylic` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Render the subject with acrylic paint texture. |
-| 838 | `/impasto` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Use thick raised paint strokes. |
-| 839 | `/fresco` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Use a fresco wall-painting texture. |
-| 840 | `/mosaic` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Build the subject from mosaic tiles. |
-| 841 | `/mandala` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Use symmetrical mandala patterns. |
-| 842 | `/zentangle` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Fill the subject with structured zentangle line patterns. |
-| 843 | `/tattoo` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Use tattoo flash or tattoo-ink styling. |
-| 844 | `/tribal` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Use bold tribal pattern cues. |
-| 845 | `/boho` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Use relaxed bohemian colors and patterns. |
-| 846 | `/artdeco` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Use geometric Art Deco styling. |
-| 847 | `/bauhaus` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Use clean Bauhaus geometry and color. |
-| 848 | `/memphis` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Use playful Memphis design shapes. |
-| 849 | `/gradientmesh` | Styles, materials, and art | Instagram 250+ Commands: Crafts And Handmade | Use smooth gradient-mesh color fields. |
-| 850 | `/newspaper` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Lay out the subject like a newspaper page. |
-| 851 | `/passportphoto` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Create a formal passport-photo style image. |
-| 852 | `/idcard` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Place the subject into an ID-card layout. |
-| 853 | `/tradingcard` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Create a collectible trading-card design. |
-| 854 | `/vinyl` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Create vinyl-record packaging or disc styling. |
-| 855 | `/bookcover` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Create a polished book-cover design. |
-| 856 | `/storybookcover` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Create a storybook cover design. |
-| 857 | `/magicalbook` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Turn the subject into a magical book or cover. |
-| 858 | `/scroll` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Present the content on an old scroll. |
-| 859 | `/map` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Create a map-style visual around the subject. |
-| 860 | `/treasuremap` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Create an aged treasure-map design. |
-| 861 | `/playingcard` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Turn the subject into a playing-card design. |
-| 862 | `/tarotcard` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Turn the subject into a tarot-card design. |
-| 863 | `/stamp` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Create a postage-stamp or stamped mark design. |
-| 864 | `/coin` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Render the subject as a coin or coin emblem. |
-| 865 | `/currency` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Place the subject in banknote-style currency design. |
-| 866 | `/waxseal` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Create a wax-seal emblem treatment. |
-| 867 | `/emblem` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Create a formal emblem design. |
-| 868 | `/crest` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Create a heraldic crest design. |
-| 869 | `/coatofarms` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Create a coat-of-arms design. |
-| 870 | `/logo` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Create a simple logo mark around the subject. |
-| 871 | `/monogram` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Create a monogram-style mark. |
-| 872 | `/badge` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Create a badge or patch design. |
-| 873 | `/emoji` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Turn the subject into an expressive emoji-style icon. |
-| 874 | `/icon` | Design, branding, and UI | Instagram 250+ Commands: Design And Branding | Create a clean app or interface icon. |
-| 875 | `/appui` | Design, branding, and UI | Instagram 250+ Commands: UI And Technology | Create an app-interface visual. |
-| 876 | `/dashboard` | Design, branding, and UI | Instagram 250+ Commands: UI And Technology | Create a data dashboard interface. |
-| 877 | `/website` | Design, branding, and UI | Instagram 250+ Commands: UI And Technology | Create a website-screen visual. |
-| 878 | `/wireframeui` | Design, branding, and UI | Instagram 250+ Commands: UI And Technology | Create a low-fidelity UI wireframe. |
-| 879 | `/glassui` | Design, branding, and UI | Instagram 250+ Commands: UI And Technology | Use translucent glass-style UI panels. |
-| 880 | `/darkmode` | Design, branding, and UI | Instagram 250+ Commands: UI And Technology | Use a dark-mode interface treatment. |
-| 881 | `/neonui` | Design, branding, and UI | Instagram 250+ Commands: UI And Technology | Create a neon-lit interface design. |
-| 882 | `/terminal` | Design, branding, and UI | Instagram 250+ Commands: UI And Technology | Use a command-line terminal interface. |
-| 883 | `/hacker` | Design, branding, and UI | Instagram 250+ Commands: UI And Technology | Use a cybersecurity or hacker-screen atmosphere. |
-| 884 | `/serverroom` | Design, branding, and UI | Instagram 250+ Commands: UI And Technology | Place the subject in a server-room environment. |
-| 885 | `/datacenter` | Design, branding, and UI | Instagram 250+ Commands: UI And Technology | Place the subject in a datacenter environment. |
-| 886 | `/quantumbench` | Design, branding, and UI | Instagram 250+ Commands: UI And Technology | Place the subject in a quantum-computing lab bench scene. |
-| 887 | `/nanotech` | Design, branding, and UI | Instagram 250+ Commands: UI And Technology | Visualize the subject with nanotechnology detail. |
-| 888 | `/dna` | Design, branding, and UI | Instagram 250+ Commands: UI And Technology | Add DNA structure or biotechnology context. |
-| 889 | `/cpu` | Design, branding, and UI | Instagram 250+ Commands: UI And Technology | Show the subject with CPU or processor-chip context. |
-| 890 | `/atom` | Design, branding, and UI | Instagram 250+ Commands: UI And Technology | Add atomic-scale science imagery. |
-| 891 | `/brain` | Design, branding, and UI | Instagram 250+ Commands: UI And Technology | Add brain or neural-interface context. |
+| 679 | `/mangacover` | Styles, materials, and art | Art and Drawing Styles | Create artwork in a manga-cover style. |
+| 680 | `/comicbook` | Styles, materials, and art | Art and Drawing Styles | Use a comic-book illustration look. |
+| 681 | `/vaporwave` | Styles, materials, and art | Art and Drawing Styles | Apply a retro vaporwave aesthetic. |
+| 682 | `/lego` | Styles, materials, and art | Art and Drawing Styles | Rebuild the subject with interlocking toy-brick style. |
+| 683 | `/ascii` | Styles, materials, and art | Art and Drawing Styles | Render the subject using ASCII-art character texture. |
+| 684 | `/papercut` | Styles, materials, and art | Art and Drawing Styles | Use layered paper-cut shapes and shadows. |
+| 685 | `/oilpainting` | Styles, materials, and art | Art and Drawing Styles | Render the subject as a traditional oil painting. |
+| 686 | `/charcoal` | Styles, materials, and art | Art and Drawing Styles | Draw the subject with rich charcoal texture. |
+| 687 | `/pencilsketch` | Styles, materials, and art | Art and Drawing Styles | Use a hand-drawn pencil sketch look. |
+| 688 | `/inkdrawing` | Styles, materials, and art | Art and Drawing Styles | Render the subject with clean ink drawing lines. |
+| 689 | `/ghibli` | Styles, materials, and art | Futuristic and Modern | Use a warm hand-painted animation-inspired atmosphere. |
+| 690 | `/anime` | Styles, materials, and art | Futuristic and Modern | Use an anime illustration style. |
+| 691 | `/chibi` | Styles, materials, and art | Futuristic and Modern | Restyle the subject as a cute chibi character. |
+| 692 | `/disney` | Styles, materials, and art | Futuristic and Modern | Use a polished family-animation-inspired look. |
+| 693 | `/pixar` | Styles, materials, and art | Futuristic and Modern | Use a polished 3D animated feature look. |
+| 694 | `/dreamworks` | Styles, materials, and art | Futuristic and Modern | Use an expressive stylized 3D animation look. |
+| 695 | `/noir` | Styles, materials, and art | Futuristic and Modern | Create a dark noir mood with strong contrast. |
+| 696 | `/filmgrain` | Styles, materials, and art | Futuristic and Modern | Add a cinematic film-grain finish. |
+| 697 | `/retro90s` | Styles, materials, and art | Futuristic and Modern | Use a bold 1990s retro visual style. |
+| 698 | `/y2k` | Styles, materials, and art | Futuristic and Modern | Use glossy early-2000s design cues. |
+| 699 | `/synthwave` | Styles, materials, and art | Futuristic and Modern | Create a neon synthwave scene. |
+| 700 | `/outrun` | Styles, materials, and art | Futuristic and Modern | Use a retro-futuristic outrun aesthetic. |
+| 701 | `/hologram` | Styles, materials, and art | Futuristic and Modern | Make the subject appear as a glowing hologram. |
+| 702 | `/neon` | Styles, materials, and art | Futuristic and Modern | Use bright neon light and color. |
+| 703 | `/goldluxury` | Styles, materials, and art | Futuristic and Modern | Give the subject a gold luxury treatment. |
+| 704 | `/flatdesign` | Styles, materials, and art | Futuristic and Modern | Use simplified flat graphic design. |
+| 705 | `/lineart` | Styles, materials, and art | Futuristic and Modern | Render the subject with clean line art. |
+| 706 | `/doodle` | Styles, materials, and art | Futuristic and Modern | Use loose playful doodle lines. |
+| 707 | `/graffiti` | Styles, materials, and art | Futuristic and Modern | Apply a street-art graffiti style. |
+| 708 | `/spraypaint` | Styles, materials, and art | Futuristic and Modern | Use sprayed paint texture and edges. |
+| 709 | `/popart` | Styles, materials, and art | Futuristic and Modern | Use bold pop-art color and contrast. |
+| 710 | `/cubism` | Styles, materials, and art | Futuristic and Modern | Break the subject into cubist geometric planes. |
+| 711 | `/surreal` | Styles, materials, and art | Futuristic and Modern | Add dreamlike surreal visual logic. |
+| 712 | `/abstract` | Styles, materials, and art | Futuristic and Modern | Convert the subject into abstract forms. |
+| 713 | `/expressionism` | Styles, materials, and art | Futuristic and Modern | Use emotional expressionist distortion and color. |
+| 714 | `/renaissance` | Styles, materials, and art | Futuristic and Modern | Restyle the subject with Renaissance painting cues. |
+| 715 | `/baroque` | Styles, materials, and art | Futuristic and Modern | Use ornate dramatic Baroque styling. |
+| 716 | `/gothic` | Styles, materials, and art | Futuristic and Modern | Use dark Gothic atmosphere and forms. |
+| 717 | `/fantasy` | Worlds, environments, and scenes | Fantasy and History | Place the subject in a fantasy setting. |
+| 718 | `/mythology` | Worlds, environments, and scenes | Fantasy and History | Give the subject mythological symbolism and scale. |
+| 719 | `/dragon` | Worlds, environments, and scenes | Fantasy and History | Add a dragon-themed fantasy treatment. |
+| 720 | `/elf` | Worlds, environments, and scenes | Fantasy and History | Add elegant elven fantasy styling. |
+| 721 | `/wizard` | Worlds, environments, and scenes | Fantasy and History | Add a magical wizard-themed treatment. |
+| 722 | `/samurai` | Worlds, environments, and scenes | Fantasy and History | Use samurai-era armor, stance, or setting. |
+| 723 | `/ninja` | Worlds, environments, and scenes | Fantasy and History | Use stealthy ninja-inspired styling. |
+| 724 | `/viking` | Worlds, environments, and scenes | Fantasy and History | Use Viking-era materials, dress, and atmosphere. |
+| 725 | `/medieval` | Worlds, environments, and scenes | Fantasy and History | Place the subject in a medieval setting. |
+| 726 | `/ancientrome` | Worlds, environments, and scenes | Fantasy and History | Use ancient Roman setting and design cues. |
+| 727 | `/ancientegypt` | Worlds, environments, and scenes | Fantasy and History | Use ancient Egyptian setting and design cues. |
+| 728 | `/space` | Worlds, environments, and scenes | Nature and Space | Place the subject in outer space. |
+| 729 | `/galaxy` | Worlds, environments, and scenes | Nature and Space | Surround the subject with a galaxy-scale backdrop. |
+| 730 | `/astronaut` | Worlds, environments, and scenes | Nature and Space | Add astronaut or space-suit context. |
+| 731 | `/mars` | Worlds, environments, and scenes | Nature and Space | Place the subject on a Mars-like landscape. |
+| 732 | `/moonlight` | Worlds, environments, and scenes | Nature and Space | Light the scene with cool moonlight. |
+| 733 | `/ocean` | Worlds, environments, and scenes | Nature and Space | Place the subject in an ocean environment. |
+| 734 | `/jungle` | Worlds, environments, and scenes | Nature and Space | Place the subject in dense jungle scenery. |
+| 735 | `/desert` | Worlds, environments, and scenes | Nature and Space | Place the subject in a desert landscape. |
+| 736 | `/volcano` | Worlds, environments, and scenes | Nature and Space | Add volcanic terrain, lava, or eruption energy. |
+| 737 | `/snow` | Worlds, environments, and scenes | Nature and Space | Set the scene in snow or wintry conditions. |
+| 738 | `/rain` | Worlds, environments, and scenes | Nature and Space | Add visible rain and wet surfaces. |
+| 739 | `/storm` | Worlds, environments, and scenes | Nature and Space | Create a dramatic storm environment. |
+| 740 | `/sunset` | Worlds, environments, and scenes | Nature and Space | Light the scene with sunset color. |
+| 741 | `/sunrise` | Worlds, environments, and scenes | Nature and Space | Light the scene with sunrise color. |
+| 742 | `/nightcity` | Worlds, environments, and scenes | Nature and Space | Place the subject in a night city scene. |
+| 743 | `/architecture` | Worlds, environments, and scenes | Buildings and Interiors | Emphasize architectural form and space. |
+| 744 | `/interior` | Worlds, environments, and scenes | Buildings and Interiors | Place the subject in a designed interior. |
+| 745 | `/scifiroom` | Worlds, environments, and scenes | Buildings and Interiors | Place the subject in a science-fiction room. |
+| 746 | `/workspace` | Worlds, environments, and scenes | Buildings and Interiors | Place the subject in a practical workspace. |
+| 747 | `/productshot` | Camera, lighting, and composition | Photography | Create a clean product photography shot. |
+| 748 | `/imax` | Camera, lighting, and composition | Photography | Use a large-format cinematic IMAX feel. |
+| 749 | `/hdr` | Camera, lighting, and composition | Photography | Use high dynamic range detail and contrast. |
+| 750 | `/hyperreal` | Camera, lighting, and composition | Photography | Push the subject toward hyperreal detail. |
+| 751 | `/photorealistic` | Camera, lighting, and composition | Photography | Render the subject as realistic photography. |
+| 752 | `/miniature` | Styles, materials, and art | Toys and Miniatures | Make the subject feel like a small miniature. |
+| 753 | `/toybox` | Styles, materials, and art | Toys and Miniatures | Present the subject as part of a toy-box scene. |
+| 754 | `/actionfigure` | Styles, materials, and art | Toys and Miniatures | Restyle the subject as an action figure. |
+| 755 | `/funko` | Styles, materials, and art | Toys and Miniatures | Restyle the subject as a collectible big-head vinyl figure. |
+| 756 | `/doubleexposure` | Styles, materials, and art | Materials and Textures | Blend two images or ideas in a double-exposure effect. |
+| 757 | `/woodcarving` | Styles, materials, and art | Materials and Textures | Render the subject as carved wood. |
+| 758 | `/icecarving` | Styles, materials, and art | Materials and Textures | Render the subject as carved ice. |
+| 759 | `/marble` | Styles, materials, and art | Materials and Textures | Give the subject a marble material finish. |
+| 760 | `/bronze` | Styles, materials, and art | Materials and Textures | Render the subject in bronze. |
+| 761 | `/ceramic` | Styles, materials, and art | Materials and Textures | Render the subject as ceramic. |
+| 762 | `/porcelain` | Styles, materials, and art | Materials and Textures | Render the subject as porcelain. |
+| 763 | `/crystal` | Styles, materials, and art | Materials and Textures | Render the subject as faceted crystal. |
+| 764 | `/diamond` | Styles, materials, and art | Materials and Textures | Give the subject a diamond-like faceted finish. |
+| 765 | `/goldleaf` | Styles, materials, and art | Materials and Textures | Apply delicate gold-leaf detailing. |
+| 766 | `/silverchrome` | Styles, materials, and art | Materials and Textures | Use a bright silver chrome finish. |
+| 767 | `/rusted` | Styles, materials, and art | Materials and Textures | Age the subject with rust. |
+| 768 | `/oxidized` | Styles, materials, and art | Materials and Textures | Add oxidized patina and weathering. |
+| 769 | `/carbonfiber` | Styles, materials, and art | Materials and Textures | Use a woven carbon-fiber material. |
+| 770 | `/liquidmetal` | Styles, materials, and art | Materials and Textures | Make the subject look like flowing liquid metal. |
+| 771 | `/moltengold` | Styles, materials, and art | Materials and Textures | Make the subject look like molten gold. |
+| 772 | `/glossart` | Styles, materials, and art | Materials and Textures | Use glossy art-surface shine. |
+| 773 | `/mirror` | Styles, materials, and art | Materials and Textures | Give the subject a mirror-like reflective finish. |
+| 774 | `/pearlescent` | Styles, materials, and art | Materials and Textures | Apply a pearlescent color-shifting finish. |
+| 775 | `/bioluminescent` | Camera, lighting, and composition | Effects | Add natural glowing bioluminescent light. |
+| 776 | `/fire` | Camera, lighting, and composition | Effects | Add flames or fiery energy. |
+| 777 | `/electric` | Camera, lighting, and composition | Effects | Add electric energy around the subject. |
+| 778 | `/lightning` | Camera, lighting, and composition | Effects | Add dramatic lightning bolts. |
+| 779 | `/smoke` | Camera, lighting, and composition | Effects | Add visible smoke atmosphere. |
+| 780 | `/fog` | Camera, lighting, and composition | Effects | Add fog around the subject. |
+| 781 | `/mist` | Camera, lighting, and composition | Effects | Add soft atmospheric mist. |
+| 782 | `/cloudscape` | Camera, lighting, and composition | Effects | Place the subject in a cloud-filled scene. |
+| 783 | `/aurora` | Camera, lighting, and composition | Effects | Add aurora-like colored sky light. |
+| 784 | `/eclipse` | Camera, lighting, and composition | Effects | Create an eclipse composition or lighting effect. |
+| 785 | `/planet` | Camera, lighting, and composition | Effects | Add a planet-scale celestial element. |
+| 786 | `/blackhole` | Camera, lighting, and composition | Effects | Place the subject near a black-hole effect. |
+| 787 | `/nebula` | Camera, lighting, and composition | Effects | Add a colorful nebula backdrop. |
+| 788 | `/meteor` | Camera, lighting, and composition | Effects | Add a meteor or meteor-impact feeling. |
+| 789 | `/comet` | Camera, lighting, and composition | Effects | Add a comet trail or celestial pass. |
+| 790 | `/spaceship` | Sci-Fi and AI | Sci-Fi and AI | Add or transform the subject into a spaceship context. |
+| 791 | `/alienworld` | Sci-Fi and AI | Sci-Fi and AI | Place the subject in an alien world. |
+| 792 | `/robot` | Sci-Fi and AI | Sci-Fi and AI | Add a robot or robotic form. |
+| 793 | `/mecha` | Sci-Fi and AI | Sci-Fi and AI | Use giant mecha robot styling. |
+| 794 | `/android` | Sci-Fi and AI | Sci-Fi and AI | Give the subject an android-like design. |
+| 795 | `/cyborg` | Sci-Fi and AI | Sci-Fi and AI | Blend the subject with cybernetic parts. |
+| 796 | `/avatar` | Sci-Fi and AI | Sci-Fi and AI | Restyle the subject as a digital avatar. |
+| 797 | `/virtualreality` | Sci-Fi and AI | Sci-Fi and AI | Place the subject in a virtual-reality context. |
+| 798 | `/metaverse` | Sci-Fi and AI | Sci-Fi and AI | Place the subject in a shared digital-world setting. |
+| 799 | `/matrix` | Sci-Fi and AI | Sci-Fi and AI | Use a digital matrix-code atmosphere. |
+| 800 | `/blockworld` | Sci-Fi and AI | Sci-Fi and AI | Build the scene from block-world geometry. |
+| 801 | `/minecraft` | Sci-Fi and AI | Sci-Fi and AI | Use a Minecraft-like blocky voxel look. |
+| 802 | `/roblox` | Sci-Fi and AI | Sci-Fi and AI | Use a Roblox-like block character or world style. |
+| 803 | `/fortnite` | Sci-Fi and AI | Sci-Fi and AI | Use a colorful stylized battle-game look. |
+| 804 | `/arcade` | Sci-Fi and AI | Sci-Fi and AI | Use retro arcade-game styling. |
+| 805 | `/gameboy` | Sci-Fi and AI | Sci-Fi and AI | Use a handheld Game Boy-era game look. |
+| 806 | `/ps1` | Sci-Fi and AI | Sci-Fi and AI | Use low-poly PlayStation 1-era graphics. |
+| 807 | `/ps2` | Sci-Fi and AI | Sci-Fi and AI | Use early PlayStation 2-era 3D graphics. |
+| 808 | `/n64` | Sci-Fi and AI | Sci-Fi and AI | Use Nintendo 64-era low-poly graphics. |
+| 809 | `/retroarcade` | Sci-Fi and AI | Sci-Fi and AI | Create a retro arcade cabinet or pixel-game mood. |
+| 810 | `/pixelportrait` | Sci-Fi and AI | Sci-Fi and AI | Turn the subject into a pixel-art portrait. |
+| 811 | `/sprite` | Sci-Fi and AI | Sci-Fi and AI | Render the subject as a game sprite. |
+| 812 | `/bossfight` | Sci-Fi and AI | Sci-Fi and AI | Stage the subject as a video-game boss fight. |
+| 813 | `/dungeon` | Worlds, environments, and scenes | Places and Adventure | Place the subject in a dungeon environment. |
+| 814 | `/castle` | Worlds, environments, and scenes | Places and Adventure | Place the subject near or inside a castle. |
+| 815 | `/throneroom` | Worlds, environments, and scenes | Places and Adventure | Stage the subject in a throne room. |
+| 816 | `/pirate` | Worlds, environments, and scenes | Places and Adventure | Use a pirate adventure theme. |
+| 817 | `/treasure` | Worlds, environments, and scenes | Places and Adventure | Add treasure-hunt context or treasure props. |
+| 818 | `/shipwreck` | Worlds, environments, and scenes | Places and Adventure | Place the subject around a shipwreck. |
+| 819 | `/lighthouse` | Worlds, environments, and scenes | Places and Adventure | Place the subject near a lighthouse. |
+| 820 | `/harbor` | Worlds, environments, and scenes | Places and Adventure | Place the subject in a harbor setting. |
+| 821 | `/village` | Worlds, environments, and scenes | Places and Adventure | Place the subject in a village scene. |
+| 822 | `/cottagecore` | Worlds, environments, and scenes | Places and Adventure | Use a cozy pastoral cottagecore style. |
+| 823 | `/fairytale` | Worlds, environments, and scenes | Places and Adventure | Give the subject a fairytale atmosphere. |
+| 824 | `/storybook` | Worlds, environments, and scenes | Places and Adventure | Render the scene like a storybook illustration. |
+| 825 | `/storybook3d` | Worlds, environments, and scenes | Places and Adventure | Render the scene as a 3D storybook world. |
+| 826 | `/puppet` | Worlds, environments, and scenes | Places and Adventure | Restyle the subject as a puppet or puppet-theater scene. |
+| 827 | `/felt` | Styles, materials, and art | Crafts and Handmade | Render the subject in soft felt. |
+| 828 | `/crochet` | Styles, materials, and art | Crafts and Handmade | Render the subject as crochet work. |
+| 829 | `/knitted` | Styles, materials, and art | Crafts and Handmade | Render the subject with knitted yarn texture. |
+| 830 | `/embroidery` | Styles, materials, and art | Crafts and Handmade | Render the subject as embroidered thread. |
+| 831 | `/quilling` | Styles, materials, and art | Crafts and Handmade | Build the subject from paper quilling strips. |
+| 832 | `/sandart` | Styles, materials, and art | Crafts and Handmade | Render the subject as sand art. |
+| 833 | `/chalk` | Styles, materials, and art | Crafts and Handmade | Use chalk texture and marks. |
+| 834 | `/marker` | Styles, materials, and art | Crafts and Handmade | Use bold marker drawing texture. |
+| 835 | `/crayon` | Styles, materials, and art | Crafts and Handmade | Use waxy crayon texture. |
+| 836 | `/pastel` | Styles, materials, and art | Crafts and Handmade | Use soft pastel drawing texture. |
+| 837 | `/acrylic` | Styles, materials, and art | Crafts and Handmade | Render the subject with acrylic paint texture. |
+| 838 | `/impasto` | Styles, materials, and art | Crafts and Handmade | Use thick raised paint strokes. |
+| 839 | `/fresco` | Styles, materials, and art | Crafts and Handmade | Use a fresco wall-painting texture. |
+| 840 | `/mosaic` | Styles, materials, and art | Crafts and Handmade | Build the subject from mosaic tiles. |
+| 841 | `/mandala` | Styles, materials, and art | Crafts and Handmade | Use symmetrical mandala patterns. |
+| 842 | `/zentangle` | Styles, materials, and art | Crafts and Handmade | Fill the subject with structured zentangle line patterns. |
+| 843 | `/tattoo` | Styles, materials, and art | Crafts and Handmade | Use tattoo flash or tattoo-ink styling. |
+| 844 | `/tribal` | Styles, materials, and art | Crafts and Handmade | Use bold tribal pattern cues. |
+| 845 | `/boho` | Styles, materials, and art | Crafts and Handmade | Use relaxed bohemian colors and patterns. |
+| 846 | `/artdeco` | Styles, materials, and art | Crafts and Handmade | Use geometric Art Deco styling. |
+| 847 | `/bauhaus` | Styles, materials, and art | Crafts and Handmade | Use clean Bauhaus geometry and color. |
+| 848 | `/memphis` | Styles, materials, and art | Crafts and Handmade | Use playful Memphis design shapes. |
+| 849 | `/gradientmesh` | Styles, materials, and art | Crafts and Handmade | Use smooth gradient-mesh color fields. |
+| 850 | `/newspaper` | Styles, materials, and art | Design and Branding | Lay out the subject like a newspaper page. |
+| 851 | `/passportphoto` | Styles, materials, and art | Design and Branding | Create a formal passport-photo style image. |
+| 852 | `/idcard` | Styles, materials, and art | Design and Branding | Place the subject into an ID-card layout. |
+| 853 | `/tradingcard` | Styles, materials, and art | Design and Branding | Create a collectible trading-card design. |
+| 854 | `/vinyl` | Styles, materials, and art | Design and Branding | Create vinyl-record packaging or disc styling. |
+| 855 | `/bookcover` | Styles, materials, and art | Design and Branding | Create a polished book-cover design. |
+| 856 | `/storybookcover` | Styles, materials, and art | Design and Branding | Create a storybook cover design. |
+| 857 | `/magicalbook` | Styles, materials, and art | Design and Branding | Turn the subject into a magical book or cover. |
+| 858 | `/scroll` | Styles, materials, and art | Design and Branding | Present the content on an old scroll. |
+| 859 | `/map` | Styles, materials, and art | Design and Branding | Create a map-style visual around the subject. |
+| 860 | `/treasuremap` | Styles, materials, and art | Design and Branding | Create an aged treasure-map design. |
+| 861 | `/playingcard` | Styles, materials, and art | Design and Branding | Turn the subject into a playing-card design. |
+| 862 | `/tarotcard` | Styles, materials, and art | Design and Branding | Turn the subject into a tarot-card design. |
+| 863 | `/stamp` | Styles, materials, and art | Design and Branding | Create a postage-stamp or stamped mark design. |
+| 864 | `/coin` | Styles, materials, and art | Design and Branding | Render the subject as a coin or coin emblem. |
+| 865 | `/currency` | Styles, materials, and art | Design and Branding | Place the subject in banknote-style currency design. |
+| 866 | `/waxseal` | Styles, materials, and art | Design and Branding | Create a wax-seal emblem treatment. |
+| 867 | `/emblem` | Styles, materials, and art | Design and Branding | Create a formal emblem design. |
+| 868 | `/crest` | Styles, materials, and art | Design and Branding | Create a heraldic crest design. |
+| 869 | `/coatofarms` | Styles, materials, and art | Design and Branding | Create a coat-of-arms design. |
+| 870 | `/logo` | Styles, materials, and art | Design and Branding | Create a simple logo mark around the subject. |
+| 871 | `/monogram` | Styles, materials, and art | Design and Branding | Create a monogram-style mark. |
+| 872 | `/badge` | Styles, materials, and art | Design and Branding | Create a badge or patch design. |
+| 873 | `/emoji` | Styles, materials, and art | Design and Branding | Turn the subject into an expressive emoji-style icon. |
+| 874 | `/icon` | Styles, materials, and art | Design and Branding | Create a clean app or interface icon. |
+| 875 | `/appui` | UI and Technology | UI and Technology | Create an app-interface visual. |
+| 876 | `/dashboard` | UI and Technology | UI and Technology | Create a data dashboard interface. |
+| 877 | `/website` | UI and Technology | UI and Technology | Create a website-screen visual. |
+| 878 | `/wireframeui` | UI and Technology | UI and Technology | Create a low-fidelity UI wireframe. |
+| 879 | `/glassui` | UI and Technology | UI and Technology | Use translucent glass-style UI panels. |
+| 880 | `/darkmode` | UI and Technology | UI and Technology | Use a dark-mode interface treatment. |
+| 881 | `/neonui` | UI and Technology | UI and Technology | Create a neon-lit interface design. |
+| 882 | `/terminal` | UI and Technology | UI and Technology | Use a command-line terminal interface. |
+| 883 | `/hacker` | UI and Technology | UI and Technology | Use a cybersecurity or hacker-screen atmosphere. |
+| 884 | `/serverroom` | UI and Technology | UI and Technology | Place the subject in a server-room environment. |
+| 885 | `/datacenter` | UI and Technology | UI and Technology | Place the subject in a datacenter environment. |
+| 886 | `/quantumbench` | UI and Technology | UI and Technology | Place the subject in a quantum-computing lab bench scene. |
+| 887 | `/nanotech` | UI and Technology | UI and Technology | Visualize the subject with nanotechnology detail. |
+| 888 | `/dna` | UI and Technology | UI and Technology | Add DNA structure or biotechnology context. |
+| 889 | `/cpu` | UI and Technology | UI and Technology | Show the subject with CPU or processor-chip context. |
+| 890 | `/atom` | UI and Technology | UI and Technology | Add atomic-scale science imagery. |
+| 891 | `/brain` | UI and Technology | UI and Technology | Add brain or neural-interface context. |

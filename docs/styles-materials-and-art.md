@@ -126,3 +126,112 @@ Use it when you want to guide the image's practical role: selling, explaining, c
 | `/clayui` | Web Research: AI Image Style Keywords | Render the subject as a soft clay-like UI or app illustration. |
 | `/glassmorphism` | Web Research: UI And Surface Styles | Use translucent frosted-glass panels and layered depth. |
 | `/neonnoir` | Web Research: Cinematic Style Keywords | Restyle the subject with neon lighting and noir contrast. |
+| `/mangacover` | Art and Drawing Styles | Create artwork in a manga-cover style. |
+| `/comicbook` | Art and Drawing Styles | Use a comic-book illustration look. |
+| `/vaporwave` | Art and Drawing Styles | Apply a retro vaporwave aesthetic. |
+| `/lego` | Art and Drawing Styles | Rebuild the subject with interlocking toy-brick style. |
+| `/ascii` | Art and Drawing Styles | Render the subject using ASCII-art character texture. |
+| `/papercut` | Art and Drawing Styles | Use layered paper-cut shapes and shadows. |
+| `/oilpainting` | Art and Drawing Styles | Render the subject as a traditional oil painting. |
+| `/charcoal` | Art and Drawing Styles | Draw the subject with rich charcoal texture. |
+| `/pencilsketch` | Art and Drawing Styles | Use a hand-drawn pencil sketch look. |
+| `/inkdrawing` | Art and Drawing Styles | Render the subject with clean ink drawing lines. |
+| `/ghibli` | Futuristic and Modern | Use a warm hand-painted animation-inspired atmosphere. |
+| `/anime` | Futuristic and Modern | Use an anime illustration style. |
+| `/chibi` | Futuristic and Modern | Restyle the subject as a cute chibi character. |
+| `/disney` | Futuristic and Modern | Use a polished family-animation-inspired look. |
+| `/pixar` | Futuristic and Modern | Use a polished 3D animated feature look. |
+| `/dreamworks` | Futuristic and Modern | Use an expressive stylized 3D animation look. |
+| `/noir` | Futuristic and Modern | Create a dark noir mood with strong contrast. |
+| `/filmgrain` | Futuristic and Modern | Add a cinematic film-grain finish. |
+| `/retro90s` | Futuristic and Modern | Use a bold 1990s retro visual style. |
+| `/y2k` | Futuristic and Modern | Use glossy early-2000s design cues. |
+| `/synthwave` | Futuristic and Modern | Create a neon synthwave scene. |
+| `/outrun` | Futuristic and Modern | Use a retro-futuristic outrun aesthetic. |
+| `/hologram` | Futuristic and Modern | Make the subject appear as a glowing hologram. |
+| `/neon` | Futuristic and Modern | Use bright neon light and color. |
+| `/goldluxury` | Futuristic and Modern | Give the subject a gold luxury treatment. |
+| `/flatdesign` | Futuristic and Modern | Use simplified flat graphic design. |
+| `/lineart` | Futuristic and Modern | Render the subject with clean line art. |
+| `/doodle` | Futuristic and Modern | Use loose playful doodle lines. |
+| `/graffiti` | Futuristic and Modern | Apply a street-art graffiti style. |
+| `/spraypaint` | Futuristic and Modern | Use sprayed paint texture and edges. |
+| `/popart` | Futuristic and Modern | Use bold pop-art color and contrast. |
+| `/cubism` | Futuristic and Modern | Break the subject into cubist geometric planes. |
+| `/surreal` | Futuristic and Modern | Add dreamlike surreal visual logic. |
+| `/abstract` | Futuristic and Modern | Convert the subject into abstract forms. |
+| `/expressionism` | Futuristic and Modern | Use emotional expressionist distortion and color. |
+| `/renaissance` | Futuristic and Modern | Restyle the subject with Renaissance painting cues. |
+| `/baroque` | Futuristic and Modern | Use ornate dramatic Baroque styling. |
+| `/gothic` | Futuristic and Modern | Use dark Gothic atmosphere and forms. |
+| `/miniature` | Toys and Miniatures | Make the subject feel like a small miniature. |
+| `/toybox` | Toys and Miniatures | Present the subject as part of a toy-box scene. |
+| `/actionfigure` | Toys and Miniatures | Restyle the subject as an action figure. |
+| `/funko` | Toys and Miniatures | Restyle the subject as a collectible big-head vinyl figure. |
+| `/doubleexposure` | Materials and Textures | Blend two images or ideas in a double-exposure effect. |
+| `/woodcarving` | Materials and Textures | Render the subject as carved wood. |
+| `/icecarving` | Materials and Textures | Render the subject as carved ice. |
+| `/marble` | Materials and Textures | Give the subject a marble material finish. |
+| `/bronze` | Materials and Textures | Render the subject in bronze. |
+| `/ceramic` | Materials and Textures | Render the subject as ceramic. |
+| `/porcelain` | Materials and Textures | Render the subject as porcelain. |
+| `/crystal` | Materials and Textures | Render the subject as faceted crystal. |
+| `/diamond` | Materials and Textures | Give the subject a diamond-like faceted finish. |
+| `/goldleaf` | Materials and Textures | Apply delicate gold-leaf detailing. |
+| `/silverchrome` | Materials and Textures | Use a bright silver chrome finish. |
+| `/rusted` | Materials and Textures | Age the subject with rust. |
+| `/oxidized` | Materials and Textures | Add oxidized patina and weathering. |
+| `/carbonfiber` | Materials and Textures | Use a woven carbon-fiber material. |
+| `/liquidmetal` | Materials and Textures | Make the subject look like flowing liquid metal. |
+| `/moltengold` | Materials and Textures | Make the subject look like molten gold. |
+| `/glossart` | Materials and Textures | Use glossy art-surface shine. |
+| `/mirror` | Materials and Textures | Give the subject a mirror-like reflective finish. |
+| `/pearlescent` | Materials and Textures | Apply a pearlescent color-shifting finish. |
+| `/felt` | Crafts and Handmade | Render the subject in soft felt. |
+| `/crochet` | Crafts and Handmade | Render the subject as crochet work. |
+| `/knitted` | Crafts and Handmade | Render the subject with knitted yarn texture. |
+| `/embroidery` | Crafts and Handmade | Render the subject as embroidered thread. |
+| `/quilling` | Crafts and Handmade | Build the subject from paper quilling strips. |
+| `/sandart` | Crafts and Handmade | Render the subject as sand art. |
+| `/chalk` | Crafts and Handmade | Use chalk texture and marks. |
+| `/marker` | Crafts and Handmade | Use bold marker drawing texture. |
+| `/crayon` | Crafts and Handmade | Use waxy crayon texture. |
+| `/pastel` | Crafts and Handmade | Use soft pastel drawing texture. |
+| `/acrylic` | Crafts and Handmade | Render the subject with acrylic paint texture. |
+| `/impasto` | Crafts and Handmade | Use thick raised paint strokes. |
+| `/fresco` | Crafts and Handmade | Use a fresco wall-painting texture. |
+| `/mosaic` | Crafts and Handmade | Build the subject from mosaic tiles. |
+| `/mandala` | Crafts and Handmade | Use symmetrical mandala patterns. |
+| `/zentangle` | Crafts and Handmade | Fill the subject with structured zentangle line patterns. |
+| `/tattoo` | Crafts and Handmade | Use tattoo flash or tattoo-ink styling. |
+| `/tribal` | Crafts and Handmade | Use bold tribal pattern cues. |
+| `/boho` | Crafts and Handmade | Use relaxed bohemian colors and patterns. |
+| `/artdeco` | Crafts and Handmade | Use geometric Art Deco styling. |
+| `/bauhaus` | Crafts and Handmade | Use clean Bauhaus geometry and color. |
+| `/memphis` | Crafts and Handmade | Use playful Memphis design shapes. |
+| `/gradientmesh` | Crafts and Handmade | Use smooth gradient-mesh color fields. |
+| `/newspaper` | Design and Branding | Lay out the subject like a newspaper page. |
+| `/passportphoto` | Design and Branding | Create a formal passport-photo style image. |
+| `/idcard` | Design and Branding | Place the subject into an ID-card layout. |
+| `/tradingcard` | Design and Branding | Create a collectible trading-card design. |
+| `/vinyl` | Design and Branding | Create vinyl-record packaging or disc styling. |
+| `/bookcover` | Design and Branding | Create a polished book-cover design. |
+| `/storybookcover` | Design and Branding | Create a storybook cover design. |
+| `/magicalbook` | Design and Branding | Turn the subject into a magical book or cover. |
+| `/scroll` | Design and Branding | Present the content on an old scroll. |
+| `/map` | Design and Branding | Create a map-style visual around the subject. |
+| `/treasuremap` | Design and Branding | Create an aged treasure-map design. |
+| `/playingcard` | Design and Branding | Turn the subject into a playing-card design. |
+| `/tarotcard` | Design and Branding | Turn the subject into a tarot-card design. |
+| `/stamp` | Design and Branding | Create a postage-stamp or stamped mark design. |
+| `/coin` | Design and Branding | Render the subject as a coin or coin emblem. |
+| `/currency` | Design and Branding | Place the subject in banknote-style currency design. |
+| `/waxseal` | Design and Branding | Create a wax-seal emblem treatment. |
+| `/emblem` | Design and Branding | Create a formal emblem design. |
+| `/crest` | Design and Branding | Create a heraldic crest design. |
+| `/coatofarms` | Design and Branding | Create a coat-of-arms design. |
+| `/logo` | Design and Branding | Create a simple logo mark around the subject. |
+| `/monogram` | Design and Branding | Create a monogram-style mark. |
+| `/badge` | Design and Branding | Create a badge or patch design. |
+| `/emoji` | Design and Branding | Turn the subject into an expressive emoji-style icon. |
+| `/icon` | Design and Branding | Create a clean app or interface icon. |

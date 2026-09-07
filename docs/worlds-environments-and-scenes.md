@@ -55,3 +55,47 @@ Use it when you want to guide the image's practical role: selling, explaining, c
 | `/damagecheck` | Environment, Condition, And Inspection | Highlight scratches, cracks, dents, or breaks. |
 | `/authenticitycheck` | Environment, Condition, And Inspection | Highlight details that indicate authenticity. |
 | `/repairability` | Environment, Condition, And Inspection | Show which parts can be repaired or replaced. |
+| `/fantasy` | Fantasy and History | Place the subject in a fantasy setting. |
+| `/mythology` | Fantasy and History | Give the subject mythological symbolism and scale. |
+| `/dragon` | Fantasy and History | Add a dragon-themed fantasy treatment. |
+| `/elf` | Fantasy and History | Add elegant elven fantasy styling. |
+| `/wizard` | Fantasy and History | Add a magical wizard-themed treatment. |
+| `/samurai` | Fantasy and History | Use samurai-era armor, stance, or setting. |
+| `/ninja` | Fantasy and History | Use stealthy ninja-inspired styling. |
+| `/viking` | Fantasy and History | Use Viking-era materials, dress, and atmosphere. |
+| `/medieval` | Fantasy and History | Place the subject in a medieval setting. |
+| `/ancientrome` | Fantasy and History | Use ancient Roman setting and design cues. |
+| `/ancientegypt` | Fantasy and History | Use ancient Egyptian setting and design cues. |
+| `/space` | Nature and Space | Place the subject in outer space. |
+| `/galaxy` | Nature and Space | Surround the subject with a galaxy-scale backdrop. |
+| `/astronaut` | Nature and Space | Add astronaut or space-suit context. |
+| `/mars` | Nature and Space | Place the subject on a Mars-like landscape. |
+| `/moonlight` | Nature and Space | Light the scene with cool moonlight. |
+| `/ocean` | Nature and Space | Place the subject in an ocean environment. |
+| `/jungle` | Nature and Space | Place the subject in dense jungle scenery. |
+| `/desert` | Nature and Space | Place the subject in a desert landscape. |
+| `/volcano` | Nature and Space | Add volcanic terrain, lava, or eruption energy. |
+| `/snow` | Nature and Space | Set the scene in snow or wintry conditions. |
+| `/rain` | Nature and Space | Add visible rain and wet surfaces. |
+| `/storm` | Nature and Space | Create a dramatic storm environment. |
+| `/sunset` | Nature and Space | Light the scene with sunset color. |
+| `/sunrise` | Nature and Space | Light the scene with sunrise color. |
+| `/nightcity` | Nature and Space | Place the subject in a night city scene. |
+| `/architecture` | Buildings and Interiors | Emphasize architectural form and space. |
+| `/interior` | Buildings and Interiors | Place the subject in a designed interior. |
+| `/scifiroom` | Buildings and Interiors | Place the subject in a science-fiction room. |
+| `/workspace` | Buildings and Interiors | Place the subject in a practical workspace. |
+| `/dungeon` | Places and Adventure | Place the subject in a dungeon environment. |
+| `/castle` | Places and Adventure | Place the subject near or inside a castle. |
+| `/throneroom` | Places and Adventure | Stage the subject in a throne room. |
+| `/pirate` | Places and Adventure | Use a pirate adventure theme. |
+| `/treasure` | Places and Adventure | Add treasure-hunt context or treasure props. |
+| `/shipwreck` | Places and Adventure | Place the subject around a shipwreck. |
+| `/lighthouse` | Places and Adventure | Place the subject near a lighthouse. |
+| `/harbor` | Places and Adventure | Place the subject in a harbor setting. |
+| `/village` | Places and Adventure | Place the subject in a village scene. |
+| `/cottagecore` | Places and Adventure | Use a cozy pastoral cottagecore style. |
+| `/fairytale` | Places and Adventure | Give the subject a fairytale atmosphere. |
+| `/storybook` | Places and Adventure | Render the scene like a storybook illustration. |
+| `/storybook3d` | Places and Adventure | Render the scene as a 3D storybook world. |
+| `/puppet` | Places and Adventure | Restyle the subject as a puppet or puppet-theater scene. |

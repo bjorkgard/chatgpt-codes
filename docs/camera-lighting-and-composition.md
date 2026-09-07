@@ -84,3 +84,23 @@ Use it when you want to guide the image's practical role: selling, explaining, c
 | `/diffusedlight` | Web Research: Lighting Vocabulary | Use broad soft light with gentle shadows. |
 | `/softshadows` | Web Research: Lighting Vocabulary | Keep shadows smooth, subtle, and commercially polished. |
 | `/colorgrading` | Web Research: Post-Processing Vocabulary | Apply a coherent cinematic or editorial color grade. |
+| `/productshot` | Photography | Create a clean product photography shot. |
+| `/imax` | Photography | Use a large-format cinematic IMAX feel. |
+| `/hdr` | Photography | Use high dynamic range detail and contrast. |
+| `/hyperreal` | Photography | Push the subject toward hyperreal detail. |
+| `/photorealistic` | Photography | Render the subject as realistic photography. |
+| `/bioluminescent` | Effects | Add natural glowing bioluminescent light. |
+| `/fire` | Effects | Add flames or fiery energy. |
+| `/electric` | Effects | Add electric energy around the subject. |
+| `/lightning` | Effects | Add dramatic lightning bolts. |
+| `/smoke` | Effects | Add visible smoke atmosphere. |
+| `/fog` | Effects | Add fog around the subject. |
+| `/mist` | Effects | Add soft atmospheric mist. |
+| `/cloudscape` | Effects | Place the subject in a cloud-filled scene. |
+| `/aurora` | Effects | Add aurora-like colored sky light. |
+| `/eclipse` | Effects | Create an eclipse composition or lighting effect. |
+| `/planet` | Effects | Add a planet-scale celestial element. |
+| `/blackhole` | Effects | Place the subject near a black-hole effect. |
+| `/nebula` | Effects | Add a colorful nebula backdrop. |
+| `/meteor` | Effects | Add a meteor or meteor-impact feeling. |
+| `/comet` | Effects | Add a comet trail or celestial pass. |
