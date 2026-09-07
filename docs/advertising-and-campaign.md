@@ -162,3 +162,10 @@ Use it when you want to guide the image's practical role: selling, explaining, c
 | `/seasonalset` | Web Research: Product Photography Prompt Patterns | Place the product in a seasonal campaign setting. |
 | `/offerbanner` | Web Research: Social Ad Formats | Create a clean promotional banner with product-first hierarchy. |
 | `/testimonialad` | Web Research: Social Ad Formats | Frame the product as an ad built around a short customer quote or proof point. |
+| `/producthero` | Web Research: Visual Prompt Codebook | Make the product the unmistakable focal point of the frame. |
+| `/luxuryad` | Web Research: Visual Prompt Codebook | Use restrained composition, immaculate surfaces, and premium ad polish. |
+| `/applestyle` | Web Research: Visual Prompt Codebook | Use minimal product staging, generous space, and refined hierarchy. |
+| `/editorialad` | Web Research: Visual Prompt Codebook | Blend magazine sophistication with a clear commercial focal point. |
+| `/beautyshot` | Web Research: Visual Prompt Codebook | Highlight form, finish, and surface quality in a polished hero view. |
+| `/floatingproduct` | Web Research: Visual Prompt Codebook | Suspend the product in clean space with believable controlled shadows. |
+| `/macroproduct` | Web Research: Visual Prompt Codebook | Move close enough to show product material, texture, and craftsmanship. |

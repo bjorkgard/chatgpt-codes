@@ -99,3 +99,12 @@ Use it when you want to guide the image's practical role: selling, explaining, c
 | `/storybook` | Places and Adventure | Render the scene like a storybook illustration. |
 | `/storybook3d` | Places and Adventure | Render the scene as a 3D storybook world. |
 | `/puppet` | Places and Adventure | Restyle the subject as a puppet or puppet-theater scene. |
+| `/impossibleangle` | Web Research: Visual Prompt Codebook | Use a viewpoint that an ordinary physical camera could not reach. |
+| `/gravityoff` | Web Research: Visual Prompt Codebook | Let people and objects float naturally in a zero-gravity scene. |
+| `/miniworld` | Web Research: Visual Prompt Codebook | Construct a tiny believable world around or inside the subject. |
+| `/mirrorworld` | Web Research: Visual Prompt Codebook | Build an alternate reflected reality with consistent rules. |
+| `/dreamlogic` | Web Research: Visual Prompt Codebook | Connect unlikely elements in a surreal but coherent scene. |
+| `/infinite` | Web Research: Visual Prompt Codebook | Repeat or extend an element into an apparently endless environment. |
+| `/portal` | Web Research: Visual Prompt Codebook | Open a believable passage between two distinct places. |
+| `/scaleillusion` | Web Research: Visual Prompt Codebook | Manipulate perspective so familiar objects appear enormous or miniature. |
+| `/realityshift` | Web Research: Visual Prompt Codebook | Merge incompatible environments into one convincing photographic world. |

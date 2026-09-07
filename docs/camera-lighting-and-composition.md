@@ -104,3 +104,49 @@ Use it when you want to guide the image's practical role: selling, explaining, c
 | `/nebula` | Effects | Add a colorful nebula backdrop. |
 | `/meteor` | Effects | Add a meteor or meteor-impact feeling. |
 | `/comet` | Effects | Add a comet trail or celestial pass. |
+| `/highangle` | Web Research: Visual Prompt Codebook | Look down on the subject to reveal layout, pattern, or context. |
+| `/OTS` | Web Research: Visual Prompt Codebook | Frame the scene over a shoulder for a cinematic viewpoint. |
+| `/POV` | Web Research: Visual Prompt Codebook | Show the scene from the viewer's first-person perspective. |
+| `/wormsview` | Web Research: Visual Prompt Codebook | Shoot from ground level upward for extreme scale and drama. |
+| `/birdsview` | Web Research: Visual Prompt Codebook | Look straight down from above to reveal arrangement and geometry. |
+| `/closeup` | Web Research: Visual Prompt Codebook | Crop tightly around the subject or one expressive detail. |
+| `/fullbody` | Web Research: Visual Prompt Codebook | Show the complete person or object with clear silhouette space. |
+| `/wideframe` | Web Research: Visual Prompt Codebook | Use a broad frame that includes the surrounding environment. |
+| `/symmetry` | Web Research: Visual Prompt Codebook | Balance visual weight across the centerline. |
+| `/centerframe` | Web Research: Visual Prompt Codebook | Place the subject in the exact center for an iconic composition. |
+| `/hardlight` | Web Research: Visual Prompt Codebook | Use crisp directional light with strong, sharp-edged shadows. |
+| `/softlight` | Web Research: Visual Prompt Codebook | Use broad diffused light for gentle shadows and flattering detail. |
+| `/backlight` | Web Research: Visual Prompt Codebook | Put the key light behind the subject for glow, depth, or silhouette. |
+| `/practicallight` | Web Research: Visual Prompt Codebook | Let visible lamps, screens, signs, or fixtures motivate the lighting. |
+| `/filmstill` | Web Research: Visual Prompt Codebook | Make the image feel like a single frame from a movie scene. |
+| `/anamorphic` | Web Research: Visual Prompt Codebook | Use widescreen lens character, shallow depth, and subtle horizontal flare. |
+| `/70scinema` | Web Research: Visual Prompt Codebook | Use warm 1970s film color, texture, and period lens cues. |
+| `/80saction` | Web Research: Visual Prompt Codebook | Use bold contrast, haze, and heroic action-movie framing. |
+| `/indiefilm` | Web Research: Visual Prompt Codebook | Use intimate natural light and understated story-driven framing. |
+| `/freezeaction` | Web Research: Visual Prompt Codebook | Stop a fast moment with sharp detail and decisive timing. |
+| `/speedramp` | Web Research: Visual Prompt Codebook | Suggest a stylized slow-fast-slow action beat in one frame. |
+| `/midair` | Web Research: Visual Prompt Codebook | Suspend the subject at the peak of an action moment. |
+| `/impactframe` | Web Research: Visual Prompt Codebook | Show the instant of impact with readable force, debris, or energy. |
+| `/windblown` | Web Research: Visual Prompt Codebook | Use wind to animate hair, fabric, smoke, dust, or loose objects. |
+| `/runningframe` | Web Research: Visual Prompt Codebook | Pose the subject in a convincing sprint with environmental motion. |
+| `/jumpcutframe` | Web Research: Visual Prompt Codebook | Create a sharp editorial visual jump or surprising discontinuity. |
+| `/collision` | Web Research: Visual Prompt Codebook | Stage multiple elements converging in a controlled dramatic moment. |
+| `/chaosframe` | Web Research: Visual Prompt Codebook | Fill the composition with dense but readable visual energy. |
+| `/streetphoto` | Web Research: Visual Prompt Codebook | Use candid documentary street-photography texture and timing. |
+| `/paparazzi` | Web Research: Visual Prompt Codebook | Use direct flash, spontaneous framing, and unpolished celebrity-photo energy. |
+| `/mediumformat` | Web Research: Visual Prompt Codebook | Use smooth tonal range, clean detail, and rich subject separation. |
+| `/disposablecam` | Web Research: Visual Prompt Codebook | Add consumer-flash harshness, imperfect exposure, and casual nostalgia. |
+| `/contactsheet` | Web Research: Visual Prompt Codebook | Arrange several related frames as one photographic contact sheet. |
+| `/lookbook` | Web Research: Visual Prompt Codebook | Present fashion or products in consistent poses and repeatable framing. |
+| `/coverstory` | Web Research: Visual Prompt Codebook | Compose a magazine-ready portrait or hero image with room for cover lines. |
+| `/BTS` | Web Research: Visual Prompt Codebook | Show the finished subject together with the production setup. |
+| `/behindthescenes` | Web Research: Visual Prompt Codebook | Reveal crew, cameras, lights, props, and the working environment. |
+| `/setphoto` | Web Research: Visual Prompt Codebook | Photograph the subject inside a recognizable professional set. |
+| `/camerarig` | Web Research: Visual Prompt Codebook | Include the camera, lens, support, monitor, and working rig. |
+| `/lightingrig` | Web Research: Visual Prompt Codebook | Show softboxes, flags, stands, practicals, cables, and modifiers. |
+| `/directorview` | Web Research: Visual Prompt Codebook | Frame the scene from the director's practical working position. |
+| `/videovillage` | Web Research: Visual Prompt Codebook | Show monitors and crew reviewing the live or recorded image. |
+| `/studiofloor` | Web Research: Visual Prompt Codebook | Use a wide view that reveals an active photo or film studio. |
+| `/makingof` | Web Research: Visual Prompt Codebook | Capture a documentary-style moment about how the image is made. |
+| `/reflection` | Web Research: Visual Prompt Codebook | Build the image around mirrors, water, glass, or polished reflections. |
+| `/throughglass` | Web Research: Visual Prompt Codebook | Shoot through glass with believable reflection, refraction, and depth. |

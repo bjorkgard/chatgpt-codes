@@ -62,3 +62,7 @@ Use it when you want to guide the image's practical role: selling, explaining, c
 | `/labelmaker` | Annotation And Explanation | Use tidy printed labels for each part. |
 | `/captioncard` | Annotation And Explanation | Add short explanatory captions beside the subject. |
 | `/legendkey` | Annotation And Explanation | Create a visual key for colors and symbols. |
+| `/framework` | Web Research: Visual Prompt Codebook | Organize a concept into named stages, pillars, or repeatable parts. |
+| `/flowchart` | Web Research: Visual Prompt Codebook | Show decisions, steps, or movement through connected boxes and arrows. |
+| `/visualwiki` | OpenAI Prompting Guide | Create a compact educational reference page with diagrams and labels. |
+| `/denseinfographic` | OpenAI Prompting Guide | Build a high-information infographic with careful hierarchy and short text. |

@@ -1,6 +1,6 @@
 # Complete Code Catalog
 
-This file collects all 901 code words extracted from the PDF catalog, later research additions, and image-sourced additions.
+This file collects all 975 code words extracted from the PDF catalog, later research additions, and image-sourced additions.
 
 | No. | Code word | Group | Source/category | Short function |
 |---:|---|---|---|---|
@@ -905,3 +905,77 @@ This file collects all 901 code words extracted from the PDF catalog, later rese
 | 899 | `/pencil` | Styles, materials, and art | Art Styles | Draw the subject with pencil texture and shading. |
 | 900 | `/ink` | Styles, materials, and art | Art Styles | Render the subject with ink illustration lines. |
 | 901 | `/clay` | Styles, materials, and art | Art Styles | Sculpt the subject in a soft clay 3D style. |
+| 902 | `/highangle` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Look down on the subject to reveal layout, pattern, or context. |
+| 903 | `/OTS` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Frame the scene over a shoulder for a cinematic viewpoint. |
+| 904 | `/POV` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Show the scene from the viewer's first-person perspective. |
+| 905 | `/wormsview` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Shoot from ground level upward for extreme scale and drama. |
+| 906 | `/birdsview` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Look straight down from above to reveal arrangement and geometry. |
+| 907 | `/closeup` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Crop tightly around the subject or one expressive detail. |
+| 908 | `/fullbody` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Show the complete person or object with clear silhouette space. |
+| 909 | `/wideframe` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Use a broad frame that includes the surrounding environment. |
+| 910 | `/symmetry` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Balance visual weight across the centerline. |
+| 911 | `/centerframe` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Place the subject in the exact center for an iconic composition. |
+| 912 | `/hardlight` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Use crisp directional light with strong, sharp-edged shadows. |
+| 913 | `/softlight` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Use broad diffused light for gentle shadows and flattering detail. |
+| 914 | `/backlight` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Put the key light behind the subject for glow, depth, or silhouette. |
+| 915 | `/practicallight` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Let visible lamps, screens, signs, or fixtures motivate the lighting. |
+| 916 | `/filmstill` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Make the image feel like a single frame from a movie scene. |
+| 917 | `/anamorphic` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Use widescreen lens character, shallow depth, and subtle horizontal flare. |
+| 918 | `/70scinema` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Use warm 1970s film color, texture, and period lens cues. |
+| 919 | `/80saction` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Use bold contrast, haze, and heroic action-movie framing. |
+| 920 | `/indiefilm` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Use intimate natural light and understated story-driven framing. |
+| 921 | `/freezeaction` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Stop a fast moment with sharp detail and decisive timing. |
+| 922 | `/speedramp` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Suggest a stylized slow-fast-slow action beat in one frame. |
+| 923 | `/midair` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Suspend the subject at the peak of an action moment. |
+| 924 | `/impactframe` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Show the instant of impact with readable force, debris, or energy. |
+| 925 | `/windblown` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Use wind to animate hair, fabric, smoke, dust, or loose objects. |
+| 926 | `/runningframe` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Pose the subject in a convincing sprint with environmental motion. |
+| 927 | `/jumpcutframe` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Create a sharp editorial visual jump or surprising discontinuity. |
+| 928 | `/collision` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Stage multiple elements converging in a controlled dramatic moment. |
+| 929 | `/chaosframe` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Fill the composition with dense but readable visual energy. |
+| 930 | `/streetphoto` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Use candid documentary street-photography texture and timing. |
+| 931 | `/paparazzi` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Use direct flash, spontaneous framing, and unpolished celebrity-photo energy. |
+| 932 | `/mediumformat` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Use smooth tonal range, clean detail, and rich subject separation. |
+| 933 | `/disposablecam` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Add consumer-flash harshness, imperfect exposure, and casual nostalgia. |
+| 934 | `/contactsheet` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Arrange several related frames as one photographic contact sheet. |
+| 935 | `/lookbook` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Present fashion or products in consistent poses and repeatable framing. |
+| 936 | `/coverstory` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Compose a magazine-ready portrait or hero image with room for cover lines. |
+| 937 | `/BTS` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Show the finished subject together with the production setup. |
+| 938 | `/behindthescenes` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Reveal crew, cameras, lights, props, and the working environment. |
+| 939 | `/setphoto` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Photograph the subject inside a recognizable professional set. |
+| 940 | `/camerarig` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Include the camera, lens, support, monitor, and working rig. |
+| 941 | `/lightingrig` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Show softboxes, flags, stands, practicals, cables, and modifiers. |
+| 942 | `/directorview` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Frame the scene from the director's practical working position. |
+| 943 | `/videovillage` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Show monitors and crew reviewing the live or recorded image. |
+| 944 | `/studiofloor` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Use a wide view that reveals an active photo or film studio. |
+| 945 | `/makingof` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Capture a documentary-style moment about how the image is made. |
+| 946 | `/reflection` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Build the image around mirrors, water, glass, or polished reflections. |
+| 947 | `/throughglass` | Camera, lighting, and composition | Web Research: Visual Prompt Codebook | Shoot through glass with believable reflection, refraction, and depth. |
+| 948 | `/producthero` | Advertising and campaign | Web Research: Visual Prompt Codebook | Make the product the unmistakable focal point of the frame. |
+| 949 | `/luxuryad` | Advertising and campaign | Web Research: Visual Prompt Codebook | Use restrained composition, immaculate surfaces, and premium ad polish. |
+| 950 | `/applestyle` | Advertising and campaign | Web Research: Visual Prompt Codebook | Use minimal product staging, generous space, and refined hierarchy. |
+| 951 | `/editorialad` | Advertising and campaign | Web Research: Visual Prompt Codebook | Blend magazine sophistication with a clear commercial focal point. |
+| 952 | `/beautyshot` | Advertising and campaign | Web Research: Visual Prompt Codebook | Highlight form, finish, and surface quality in a polished hero view. |
+| 953 | `/floatingproduct` | Advertising and campaign | Web Research: Visual Prompt Codebook | Suspend the product in clean space with believable controlled shadows. |
+| 954 | `/macroproduct` | Advertising and campaign | Web Research: Visual Prompt Codebook | Move close enough to show product material, texture, and craftsmanship. |
+| 955 | `/impossibleangle` | Worlds, environments, and scenes | Web Research: Visual Prompt Codebook | Use a viewpoint that an ordinary physical camera could not reach. |
+| 956 | `/gravityoff` | Worlds, environments, and scenes | Web Research: Visual Prompt Codebook | Let people and objects float naturally in a zero-gravity scene. |
+| 957 | `/miniworld` | Worlds, environments, and scenes | Web Research: Visual Prompt Codebook | Construct a tiny believable world around or inside the subject. |
+| 958 | `/mirrorworld` | Worlds, environments, and scenes | Web Research: Visual Prompt Codebook | Build an alternate reflected reality with consistent rules. |
+| 959 | `/dreamlogic` | Worlds, environments, and scenes | Web Research: Visual Prompt Codebook | Connect unlikely elements in a surreal but coherent scene. |
+| 960 | `/infinite` | Worlds, environments, and scenes | Web Research: Visual Prompt Codebook | Repeat or extend an element into an apparently endless environment. |
+| 961 | `/portal` | Worlds, environments, and scenes | Web Research: Visual Prompt Codebook | Open a believable passage between two distinct places. |
+| 962 | `/scaleillusion` | Worlds, environments, and scenes | Web Research: Visual Prompt Codebook | Manipulate perspective so familiar objects appear enormous or miniature. |
+| 963 | `/realityshift` | Worlds, environments, and scenes | Web Research: Visual Prompt Codebook | Merge incompatible environments into one convincing photographic world. |
+| 964 | `/fashioneditorial` | Styles, materials, and art | Web Research: Visual Prompt Codebook | Use deliberate styling, attitude, and high-fashion magazine composition. |
+| 965 | `/xraystyle` | Styles, materials, and art | Web Research: Visual Prompt Codebook | Reveal hidden structures with a stylized transparent x-ray treatment. |
+| 966 | `/conceptart` | Styles, materials, and art | Web Research: Visual Prompt Codebook | Use cinematic concept-art polish while keeping credible visual detail. |
+| 967 | `/framework` | Learning and explanation | Web Research: Visual Prompt Codebook | Organize a concept into named stages, pillars, or repeatable parts. |
+| 968 | `/flowchart` | Learning and explanation | Web Research: Visual Prompt Codebook | Show decisions, steps, or movement through connected boxes and arrows. |
+| 969 | `/visualwiki` | Learning and explanation | OpenAI Prompting Guide | Create a compact educational reference page with diagrams and labels. |
+| 970 | `/denseinfographic` | Learning and explanation | OpenAI Prompting Guide | Build a high-information infographic with careful hierarchy and short text. |
+| 971 | `/negativeprompt` | Process, instruction, and safety | Web Research: ChatGPT Image Prompting Tips | State what the image must avoid, such as watermarks, extra people, or clutter. |
+| 972 | `/textmedium` | Process, instruction, and safety | Web Research: ChatGPT Image Prompting Tips | Specify how text appears, such as engraved, neon, chalk, label, or banner. |
+| 973 | `/textcontainer` | Process, instruction, and safety | Web Research: ChatGPT Image Prompting Tips | Put generated text inside a stable shape for cleaner legibility. |
+| 974 | `/referenceimage` | Process, instruction, and safety | Web Research: ChatGPT Image Prompting Tips | Use uploaded images to preserve composition, lighting, product traits, or style. |
+| 975 | `/variationset` | Process, instruction, and safety | Web Research: ChatGPT Image Prompting Tips | Generate multiple coherent versions before choosing one direction to refine. |

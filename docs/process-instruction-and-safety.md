@@ -51,3 +51,8 @@ Use it when you want to guide the image's practical role: selling, explaining, c
 | `/chargingports` | Controls, Status, And Power | Identify charging connections and direction. |
 | `/batteryaccess` | Controls, Status, And Power | Show how to reach the battery compartment. |
 | `/batteryplacement` | Controls, Status, And Power | Show battery position and orientation. |
+| `/negativeprompt` | Web Research: ChatGPT Image Prompting Tips | State what the image must avoid, such as watermarks, extra people, or clutter. |
+| `/textmedium` | Web Research: ChatGPT Image Prompting Tips | Specify how text appears, such as engraved, neon, chalk, label, or banner. |
+| `/textcontainer` | Web Research: ChatGPT Image Prompting Tips | Put generated text inside a stable shape for cleaner legibility. |
+| `/referenceimage` | Web Research: ChatGPT Image Prompting Tips | Use uploaded images to preserve composition, lighting, product traits, or style. |
+| `/variationset` | Web Research: ChatGPT Image Prompting Tips | Generate multiple coherent versions before choosing one direction to refine. |

@@ -150,3 +150,7 @@ Turn the car studio photo into an exploded blueprint example. Keep the modern ro
 Example:
 
 `/explodedview Create an educational visualization of an e-bike motor. Show the main components, short labels, clear arrows, and a clean technical style. Preserve the product proportions.`
+
+For everyday image requests, a useful expanded formula is:
+
+`[subject] in [setting/action], [two to four visual codes], [colors and mood], for [use case], [image shape], [things to avoid]`

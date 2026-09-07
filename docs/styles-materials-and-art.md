@@ -193,6 +193,9 @@ Use it when you want to guide the image's practical role: selling, explaining, c
 | `/glossart` | Materials and Textures | Use glossy art-surface shine. |
 | `/mirror` | Materials and Textures | Give the subject a mirror-like reflective finish. |
 | `/pearlescent` | Materials and Textures | Apply a pearlescent color-shifting finish. |
+| `/fashioneditorial` | Web Research: Visual Prompt Codebook | Use deliberate styling, attitude, and high-fashion magazine composition. |
+| `/xraystyle` | Web Research: Visual Prompt Codebook | Reveal hidden structures with a stylized transparent x-ray treatment. |
+| `/conceptart` | Web Research: Visual Prompt Codebook | Use cinematic concept-art polish while keeping credible visual detail. |
 | `/felt` | Crafts and Handmade | Render the subject in soft felt. |
 | `/crochet` | Crafts and Handmade | Render the subject as crochet work. |
 | `/knitted` | Crafts and Handmade | Render the subject with knitted yarn texture. |
