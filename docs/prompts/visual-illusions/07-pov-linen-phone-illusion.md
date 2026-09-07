@@ -1,6 +1,6 @@
 # POV Linen Phone Illusion
 
-![POV linen phone illusion example](../../examples/prompts/07-pov-linen-phone-illusion.png)
+![POV linen phone illusion example](../../../examples/prompts/visual-illusions/07-pov-linen-phone-illusion.png)
 
 ## Prompt
 

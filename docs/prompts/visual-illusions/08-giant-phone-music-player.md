@@ -1,6 +1,6 @@
 # Giant Phone Music Player
 
-![Giant phone music player example](../../examples/prompts/08-giant-phone-music-player.png)
+![Giant phone music player example](../../../examples/prompts/visual-illusions/08-giant-phone-music-player.png)
 
 ## Prompt
 

@@ -1,6 +1,6 @@
 # Trapped Phone Glass
 
-![Trapped phone glass example](../../examples/prompts/03-trapped-phone-glass.png)
+![Trapped phone glass example](../../../examples/prompts/visual-illusions/03-trapped-phone-glass.png)
 
 ## Prompt
 

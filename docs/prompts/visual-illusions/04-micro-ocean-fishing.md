@@ -1,6 +1,6 @@
 # Micro Ocean Fishing
 
-![Micro ocean fishing example](../../examples/prompts/04-micro-ocean-fishing.png)
+![Micro ocean fishing example](../../../examples/prompts/visual-illusions/04-micro-ocean-fishing.png)
 
 ## Prompt
 

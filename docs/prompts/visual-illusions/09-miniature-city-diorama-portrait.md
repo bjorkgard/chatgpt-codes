@@ -1,6 +1,6 @@
 # Miniature City Diorama Portrait
 
-![Miniature city diorama portrait example](../../examples/prompts/09-miniature-city-diorama-portrait.png)
+![Miniature city diorama portrait example](../../../examples/prompts/visual-illusions/09-miniature-city-diorama-portrait.png)
 
 ## Prompt
 

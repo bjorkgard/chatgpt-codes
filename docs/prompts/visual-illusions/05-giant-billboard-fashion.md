@@ -1,6 +1,6 @@
 # Giant Billboard Fashion
 
-![Giant billboard fashion example](../../examples/prompts/05-giant-billboard-fashion.png)
+![Giant billboard fashion example](../../../examples/prompts/visual-illusions/05-giant-billboard-fashion.png)
 
 ## Prompt
 

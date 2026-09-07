@@ -1,6 +1,6 @@
 # Anamorphic Staircase
 
-![Anamorphic staircase example](../../examples/prompts/01-anamorphic-staircase.png)
+![Anamorphic staircase example](../../../examples/prompts/visual-illusions/01-anamorphic-staircase.png)
 
 ## Prompt
 

@@ -1,6 +1,6 @@
 # Phone Coffee Stream
 
-![Phone coffee stream example](../../examples/prompts/02-phone-coffee-stream.png)
+![Phone coffee stream example](../../../examples/prompts/visual-illusions/02-phone-coffee-stream.png)
 
 ## Prompt
 

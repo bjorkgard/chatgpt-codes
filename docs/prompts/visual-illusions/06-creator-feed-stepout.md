@@ -1,6 +1,6 @@
 # Creator Feed Step-Out
 
-![Creator feed step-out example](../../examples/prompts/06-creator-feed-stepout.png)
+![Creator feed step-out example](../../../examples/prompts/visual-illusions/06-creator-feed-stepout.png)
 
 ## Prompt
 
