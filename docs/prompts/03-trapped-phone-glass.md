@@ -5,13 +5,13 @@
 ## Prompt
 
 ```text
-Uma composicao de truques visuais de Trompe L'oeil em 3D, onde o rosto carregado como referencia parece estar preso dentro da tela fisica de um smartphone, pressionando suas maos e rosto contra o "vidro" por dentro. O ponto de vista e uma foto macro olhando para um telefone descansando em uma mesa de madeira.
+A 3D Trompe L'oeil visual trick composition, where the face uploaded as a reference appears to be trapped inside the physical screen of a smartphone, pressing their hands and face against the "glass" from the inside. The point of view is a macro photo looking at a phone resting on a wooden table.
 
-O sujeito, vestindo um moletom cinza casual, parece em panico, com a pele pressionando contra a barreira invisivel, criando distorcoes de contato realistas. Impressoes digitais e manchas sao visiveis na superficie "externa" do vidro, aumentando a ilusao de profundidade.
+The subject, wearing a casual gray hoodie, looks panicked, with their skin pressed against the invisible barrier, creating realistic contact distortions. Fingerprints and smudges are visible on the "outer" surface of the glass, enhancing the illusion of depth.
 
-A interface de um aplicativo de midia social os cerca, mas eles estao interagindo fisicamente com os elementos da interface do usuario, afastando os botoes "Curtir".
+The interface of a social media app surrounds them, but they are physically interacting with the user interface elements, pushing the "Like" buttons aside.
 
-A iluminacao e uma mistura do brilho azul frio dos pixels da tela e da luz ambiente quente refletindo na superficie do vidro, renderizado com Octane para refracao de vidro hiper-realista.
+The lighting is a mix of the cool blue glow from the screen pixels and warm ambient light reflecting on the glass surface, rendered with Octane for hyper-realistic glass refraction.
 ```
 
 ## Usage Notes
