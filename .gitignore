@@ -43,3 +43,8 @@ $RECYCLE.BIN/
 
 # Logs
 *.log
+
+# working
+tmp/
+output/
+.codex-imagegen/
